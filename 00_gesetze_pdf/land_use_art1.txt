@@ -1,0 +1,328 @@
+ Die Verordnung (EU) 2018/841 wird wie folgt geändert:
+
+1.Artikel 1 erhält folgende Fassung:
+
+                     „Artikel 1
+
+Gegenstand
+
+Diese Verordnung enthält Vorschriften
+
+a)    zu den Verpflichtungen der Mitgliedstaaten im Sektor Landnutzung, Landnutzungsänderungen und Forstwirtschaft, durch die dazu beigetragen wird, dass die Ziele des Übereinkommens von Paris erreicht werden und das Ziel der Union für die Verringerung der Treibhausgasemissionen im Zeitraum von 2021 bis 2025 eingehalten wird;
+
+b)    zur Anrechnung und Verbuchung der Emissionen und des Abbaus von Treibhausgasen im Sektor Landnutzung, Landnutzungsänderungen und Forstwirtschaft sowie zur Überprüfung der Einhaltung der Verpflichtungen gemäß Buchstabe a durch die Mitgliedstaaten im Zeitraum von 2021 bis 2025;
+
+c)    zu einem Unionsziel für den Nettoabbau von Treibhausgasen im Sektor Landnutzung, Landnutzungsänderungen und Forstwirtschaft für den Zeitraum von 2026 bis 2030;
+
+d) zu den Zielvorgaben für die Mitgliedstaaten für den Nettoabbau von Treibhausgasen im Sektor Landnutzung, Landnutzungsänderungen und Forstwirtschaft für den Zeitraum von 2026 bis 2030;
+
+e)    zu den Verpflichtungen der Mitgliedstaaten, die erforderlichen Maßnahmen zu ergreifen, um bis 2035 gemeinsam Klimaneutralität in der Union im Sektor Landnutzung, Landnutzungsänderungen und Forstwirtschaft, einschließlich der Nicht-CO2-Emissionen aus der Landwirtschaft, zu erreichen.“
+
+2.Artikel 2 erhält folgende Fassung:
+
+„Artikel 2
+
+Geltungsbereich
+
+(1) Diese Verordnung gilt für die Emissionen und den Abbau der in Anhang I Abschnitt A aufgeführten Treibhausgase, die nach Artikel 26 Absatz 4 der Verordnung (EU) 2018/1999 des Europäischen Parlaments und des Rates 43 gemeldet werden und die im Zeitraum von 2021 bis 2025 innerhalb der folgenden Flächenverbuchungskategorien in den Hoheitsgebieten der Mitgliedstaaten erscheinen:
+
+a) gemeldete Landnutzung: Waldfläche, die aus der Flächenart Ackerfläche, Grünland, Feuchtgebiet, Siedlung oder sonstige Fläche umgewandelt wurde (‚aufgeforstete Flächen‘);
+
+b) gemeldete Landnutzung: Ackerfläche, Grünland, Feuchtgebiet, Siedlung oder sonstige Fläche, die/das aus Waldfläche umgewandelt wurde (‚entwaldete Flächen‘);
+
+c) eine der folgenden gemeldeten Landnutzungen (‚bewirtschaftete Ackerflächen‘):
+
+i)    Ackerfläche, die Ackerfläche bleibt;
+
+ii)    Ackerfläche, die aus der Flächenart Grünland, Feuchtgebiet, Siedlung oder sonstige Fläche umgewandelt wurde;
+
+iii)    Ackerfläche, die in die Flächenart Feuchtgebiet, Siedlung oder sonstige Fläche umgewandelt wurde;
+
+d) eine der folgenden gemeldeten Landnutzungen (‚bewirtschaftetes Grünland‘):
+
+i)    Grünland, das Grünland bleibt;
+
+ii)    Grünland, das aus der Flächenart Ackerfläche, Feuchtgebiet, Siedlung oder sonstige Fläche umgewandelt wurde;
+
+iii)    Grünland, das in die Flächenart Feuchtgebiet, Siedlung oder sonstige Fläche umgewandelt wurde;
+
+e) gemeldete Landnutzung: Waldfläche, die Waldfläche bleibt (‚bewirtschaftete Waldflächen‘);
+
+f)    bei Mitgliedstaaten, die der Kommission bis zum 31. Dezember 2020 ihre Absicht mitgeteilt haben, eine solche Landnutzung in den Geltungsbereich ihrer Verpflichtungen gemäß Artikel 4 Absatz 1 einzubeziehen, eine der folgenden gemeldeten Landnutzungen (‚bewirtschaftete Feuchtgebiete‘):
+
+—    Feuchtgebiet, das Feuchtgebiet bleibt;
+
+—    Feuchtgebiet, das aus der Flächenart Siedlung oder sonstige Fläche umgewandelt wurde;
+
+—    Feuchtgebiet, das in die Flächenart Siedlung oder sonstige Fläche umgewandelt wurde.
+
+(2) Diese Verordnung gilt zudem für die Emissionen und den Abbau der in Anhang I Abschnitt A aufgeführten Treibhausgase, die nach Artikel 26 Absatz 4 der Verordnung (EU) 2018/1999 gemeldet werden und die im Zeitraum von 2026 bis 2030 innerhalb der folgenden Meldekategorien für Flächen und/oder Sektoren in den Hoheitsgebieten der Mitgliedstaaten erscheinen:
+
+a) Waldflächen;
+
+b) Ackerflächen;
+
+c) Grünland;
+
+d) Feuchtgebiete;
+
+e) Siedlungen;
+
+f) sonstige Flächen;
+
+g) Holzprodukte;
+
+h) Sonstige;
+
+i) atmosphärische Deposition;
+
+j) Stickstoffauswaschung und Stickstoffabfluss.
+
+(3) Diese Verordnung gilt zudem für die Emissionen und den Abbau der in Anhang I Abschnitt A aufgeführten Treibhausgase, die nach Artikel 26 Absatz 4 der Verordnung (EU) 2018/1999 gemeldet werden und die ab 2031 innerhalb einer der in Absatz 2 Buchstaben a bis j genannten Flächenkategorien und innerhalb eines der folgenden Sektoren in den Hoheitsgebieten der Mitgliedstaaten erscheinen:
+
+a) enterische Fermentation;
+
+b) Düngemanagement;
+
+c) Reisanbau;
+
+d) landwirtschaftliche Böden;
+
+e) traditionelles Abbrennen von Grasland;
+
+f) offene Verbrennung landwirtschaftlicher Rückstände;
+
+g) Kalkung;
+
+h) Harnstoffaufbringung;
+
+i) sonstige kohlenstoffhaltige Düngemittel;
+
+j) Sonstige.“
+
+3.Artikel 4 erhält folgende Fassung:
+
+„Artikel 4
+
+               Verpflichtungen und Zielvorgaben
+
+(1) Für den Zeitraum von 2021 bis 2025 muss jeder Mitgliedstaat unter Berücksichtigung der in den Artikeln 12, 13 und 13a vorgesehenen Flexibilitätsregelungen dafür sorgen, dass die Treibhausgasemissionen nicht den Treibhausgasabbau übersteigen, wobei dies als die Summe der Gesamtemissionen und des Gesamtabbaus in seinem Hoheitsgebiet in allen in Artikel 2 Absatz 1 genannten Flächenverbuchungskategorien zu berechnen ist.
+
+(2) Das Unionsziel für den Nettoabbau von Treibhausgasen für 2030 beläuft sich auf 310 Mio. Tonnen CO2-Äquivalent als Summe der gemäß Absatz 3 dieses Artikels festgelegten Zielvorgaben für die Mitgliedstaaten und basiert auf dem Durchschnitt der Daten aus den Treibhausgasinventaren für die Jahre 2016, 2017 und 2018.
+
+Jeder Mitgliedstaat stellt unter Berücksichtigung der Flexibilitätsregelungen gemäß den Artikeln 12, 13 und 13b sicher, dass die Summe der jährlichen Emissionen und des jährlichen Abbaus von Treibhausgasen in seinem Hoheitsgebiet in allen Meldekategorien für Flächen gemäß Artikel 2 Absatz 2 Buchstaben a bis j in keinem Jahr des Zeitraums von 2026 bis 2030 die Obergrenze überschreitet, die durch einen linearen Zielpfad festgelegt ist, welcher 2030 bei der in Anhang IIa für diesen Mitgliedstaat festgelegten Zielvorgabe endet. Der lineare Zielpfad für die Mitgliedstaaten beginnt 2022.
+
+(3) Die Kommission erlässt Durchführungsrechtsakte, um für jeden Mitgliedstaat auf der Grundlage des linearen Zielpfads für den Nettoabbau von Treibhausgasen für jedes Jahr im Zeitraum von 2026 bis 2029 die jährlichen Zielvorgaben in Tonnen CO2-Äquivalent festzulegen. Diese nationalen Zielpfade beruhen auf dem von den einzelnen Mitgliedstaaten gemeldeten Durchschnitt der Daten aus den Treibhausgasinventaren für die Jahre 2021, 2022 und 2023. Der für den Nettoabbau festgelegte Zielwert von 310 Mio. Tonnen CO2-Äquivalent, der der Summe der Zielvorgaben für die Mitgliedstaaten gemäß Anhang IIa entspricht, kann im Falle einer Änderung der Methodik durch die Mitgliedstaaten einer technischen Korrektur unterliegen. In den Durchführungsrechtsakten wird auch die Methode zur Bestimmung der technischen Korrektur festgelegt, die auf die Zielvorgaben der Mitgliedstaaten anzuwenden ist. Für die Zwecke dieser Durchführungsrechtsakte nimmt die Kommission eine umfassende Überprüfung der aktuellsten Daten aus den nationalen Inventaren für die Jahre 2021, 2022 und 2023 vor, die von den Mitgliedstaaten gemäß Artikel 26 Absatz 4 der Verordnung (EU) 2018/1999 übermittelt werden.
+
+Diese Durchführungsrechtsakte werden gemäß dem in Artikel 16a genannten Prüfverfahren erlassen.
+
+(4) Ziel ist es, die unionsweiten Nettotreibhausgasemissionen in den in Artikel 2 Absatz 3 Buchstaben a bis j genannten Sektoren bis 2035 auf null zu reduzieren und danach unionsweit negative Emissionen zu erreichen. Die Union und die Mitgliedstaaten ergreifen die erforderlichen Maßnahmen, um das Ziel für 2035 gemeinsam erreichen zu können.
+
+Die Kommission unterbreitet bis zum 31. Dezember 2025 auf der Grundlage der von jedem Mitgliedstaat gemäß Artikel 14 der Verordnung (EU) 2018/1999 bis zum 30. Juni 2024 vorzulegenden integrierten nationalen Energie- und Klimapläne Vorschläge, welchen Beitrag jeder Mitgliedstaat zur Reduzierung der Nettoemissionen leisten soll.“
+
+4.Artikel 6 Absätze 1 und 2 erhalten folgende Fassung:
+
+„(1) Die Mitgliedstaaten verbuchen die Emissionen und den Abbau aus aufgeforsteten Flächen und aus entwaldeten Flächen, berechnet als Gesamtemissionen und Gesamtabbau, für jedes einzelne Jahr im Zeitraum von 2021 bis 2025.
+
+(2) Wurde die Landnutzung insofern geändert, als Ackerflächen, Grünland, Feuchtgebiete, Siedlungen oder sonstige Flächen in Waldflächen umgewandelt wurden, kann ein Mitgliedstaat abweichend von Artikel 5 Absatz 3 und bis spätestens 2025 die Kategorisierung solcher Flächen, die in Waldflächen umgewandelt wurden, 30 Jahre nach dem Zeitpunkt der Umwandlung in Waldflächen, die Waldflächen bleiben, abändern, sofern diese Änderung entsprechend den IPCC-Leitlinien ordnungsgemäß begründet ist.“
+
+5.Artikel 7 Absätze 1, 2 und 3 erhalten folgende Fassung:
+
+„(1) Jeder Mitgliedstaat verbucht die Emissionen und den Abbau aus bewirtschafteten Ackerflächen, die sich aus der Berechnung der Emissionen und des Abbaus im Zeitraum von 2021 bis 2025 abzüglich des Produkts aus der Multiplikation der durchschnittlichen Jahresemissionen und des durchschnittlichen Jahresabbaus aus bewirtschafteten Ackerflächen in dem Mitgliedstaat im Referenzzeitraum von 2005 bis 2009 mit dem Faktor fünf ergeben.
+
+(2) Jeder Mitgliedstaat verbucht die Emissionen und den Abbau aus bewirtschaftetem Grünland, die sich aus der Berechnung der Emissionen und des Abbaus im Zeitraum von 2021 bis 2025 abzüglich des Produkts aus der Multiplikation der durchschnittlichen Jahresemissionen und des durchschnittlichen Jahresabbaus aus bewirtschaftetem Grünland in dem Mitgliedstaat im Referenzzeitraum von 2005 bis 2009 mit dem Faktor fünf ergeben.
+
+(3) Im Zeitraum von 2021 bis 2025 verbucht jeder Mitgliedstaat, der bewirtschaftete Feuchtgebiete in seine Verpflichtung einbezieht, die Emissionen und den Abbau aus bewirtschafteten Feuchtgebieten, die sich aus der Berechnung der Emissionen und des Abbaus in dem Zeitraum abzüglich des Produkts aus der Multiplikation der durchschnittlichen Jahresemissionen und des durchschnittlichen Jahresabbaus aus bewirtschafteten Feuchtgebieten in dem Mitgliedstaat im Referenzzeitraum von 2005 bis 2009 mit dem Faktor fünf ergeben.“
+
+6.Artikel 8 wird wie folgt geändert:
+
+a)Absatz 1 erhält folgende Fassung:
+
+„(1) Jeder Mitgliedstaat verbucht die Emissionen und den Abbau aus bewirtschafteten Waldflächen, die sich aus der Berechnung der Emissionen und des Abbaus im Zeitraum von 2021 bis 2025 abzüglich des Produkts aus der Multiplikation des Referenzwerts für Wälder des betreffenden Mitgliedstaats mit dem Faktor fünf ergeben.“
+
+b)Absatz 3 Satz 1 erhält folgende Fassung:
+
+„Die Mitgliedstaaten legen der Kommission bis zum 31. Dezember 2018 für den Zeitraum von 2021 bis 2025 ihre nationalen Anrechnungspläne für die Forstwirtschaft einschließlich eines Vorschlags für einen Referenzwert für Wälder vor.“
+
+c)Die Absätze 7, 8, 9 und 10 erhalten folgende Fassung:
+
+„(7) Falls erforderlich aufgrund der technischen Bewertungen und gegebenenfalls aufgrund der technischen Empfehlungen, legen die Mitgliedstaaten der Kommission ihre überarbeiteten vorgeschlagenen Referenzwerte für Wälder bis zum 31. Dezember 2019 für den Zeitraum von 2021 bis 2025 vor. Die Kommission veröffentlicht die ihr von den Mitgliedstaaten vorgelegten vorgeschlagenen Referenzwerte für Wälder.
+
+(8) Auf der Grundlage der von den Mitgliedstaaten vorgelegten vorgeschlagenen Referenzwerte für Wälder, der nach Absatz 6 des vorliegenden Artikels vorgenommenen technischen Bewertung und gegebenenfalls der gemäß Absatz 7 des vorliegenden Artikels vorgelegten überarbeiteten vorgeschlagenen Referenzwerte für Wälder erlässt die Kommission delegierte Rechtsakte gemäß Artikel 16 zur Änderung des Anhangs IV im Hinblick auf die Festlegung der Referenzwerte für Wälder, die die Mitgliedstaaten im Zeitraum von 2021 bis 2025 anwenden müssen.
+
+(9) Legt ein Mitgliedstaat der Kommission seinen Referenzwert für Wälder nicht bis zu den in Absatz 3 des vorliegenden Artikels und gegebenenfalls Absatz 7 des vorliegenden Artikels genannten Terminen vor, so erlässt die Kommission auf der Grundlage etwaiger technischer Bewertungen gemäß Absatz 6 des vorliegenden Artikels delegierte Rechtsakte gemäß Artikel 16 zur Änderung des Anhangs IV im Hinblick auf die Festlegung des Referenzwerts für Wälder, den der betreffende Mitgliedstaat im Zeitraum von 2021 bis 2025 anwenden muss.
+
+(10) Die delegierten Rechtsakte nach den Absätzen 8 und 9 werden bis zum 31. Oktober 2020 für den Zeitraum von 2021 bis 2025 erlassen.“
+
+7.Artikel 9 wird wie folgt geändert:
+
+a)Die Überschrift erhält folgende Fassung:
+
+„Kohlenstoffspeichernde Produkte“
+
+b)Absatz 2 erhält folgende Fassung:
+
+„(2)   Die Kommission erlässt delegierte Rechtsakte gemäß Artikel 16 zur Änderung von Absatz 1 des vorliegenden Artikels und von Anhang V durch Hinzufügung neuer Kategorien kohlenstoffspeichernder Produkte, einschließlich Holzprodukten, die Kohlenstoff binden, auf der Grundlage der IPCC-Leitlinien, die die Konferenz der Vertragsparteien des UNFCCC oder die als Tagung der Vertragsparteien des Pariser Übereinkommens dienende Konferenz der Vertragsparteien gegebenenfalls annehmen wird, mit denen die Umweltintegrität gewährleistet ist.“
+
+8.Artikel 10 wird wie folgt geändert:
+
+a)Absatz 1 erhält folgende Fassung:
+
+„Am Ende des Zeitraums von 2021 bis 2025 können die Mitgliedstaaten Treibhausgasemissionen infolge natürlicher Störungen, die die durchschnittlichen Emissionen infolge natürlicher Störungen im Zeitraum von 2001 bis 2020 unter Ausschluss von statistischen Ausreißern (im Folgenden „Grundbelastung“) übersteigen, von ihren Konten für aufgeforstete Flächen und für bewirtschaftete Waldflächen ausschließen. Die Grundbelastung wird nach Maßgabe dieses Artikels und des Anhangs VI berechnet.“
+
+b)In Absatz 2 Buchstabe b wird „2030“ durch „2025“ ersetzt.
+
+9.Artikel 11 wird wie folgt geändert:
+
+a)Die Überschrift erhält folgende Fassung:
+
+„Flexibilitätsregelung und Governance“
+
+b)Absatz 1 erhält folgende Fassung:
+
+c)„(1) Ein Mitgliedstaat kann
+
+a) die allgemeine Flexibilitätsregelung gemäß Artikel 12 und
+
+b) zur Einhaltung der Verpflichtung gemäß Artikel 4 die Flexibilitätsregelung für bewirtschaftete Waldflächen gemäß den Artikeln 13 und 13b in Anspruch nehmen.
+
+Finnland kann zusätzlich zu den Flexibilitätsregelungen gemäß Unterabsatz 1 Buchstaben a und b einen zusätzlichen Ausgleich gemäß Artikel 13a in Anspruch nehmen.“
+
+10.Artikel 12 wird wie folgt geändert:
+
+a)Absatz 3 wird gestrichen.
+
+b)Folgende Absätze 5 und 6 werden angefügt:
+
+„(5) Die Mitgliedstaaten können Einnahmen aus Übertragungen gemäß Absatz 2 zur Bekämpfung des Klimawandels in der Union oder in Drittländern verwenden und unterrichten die Kommission über jede solche Maßnahme.
+
+(6) Jede Übertragung gemäß Absatz 2 kann das Ergebnis eines Projekts oder Programms zur Minderung von Treibhausgasemissionen sein, das im verkaufenden Mitgliedstaat durchgeführt und vom Empfängermitgliedstaat vergütet wird, sofern keine Doppelzählungen erfolgen und die Rückverfolgbarkeit gewährleistet ist.“
+
+11.Artikel 13 erhält folgende Fassung:
+
+„Artikel 13
+
+Flexibilitätsregelung für bewirtschaftete Waldflächen
+
+(1) Übersteigen in einem Mitgliedstaat im Zeitraum von 2021 bis 2025 die Gesamtemissionen den [nach dieser Verordnung verbuchten] Abbau in den Flächenverbuchungskategorien nach Artikel 2 Absatz 1, so kann dieser Mitgliedstaat die in diesem Artikel festgelegte Flexibilitätsregelung für bewirtschaftete Waldflächen in Anspruch nehmen, um Artikel 4 Absatz 1 einzuhalten.
+
+(2) Ist das Ergebnis der Berechnung gemäß Artikel 8 Absatz 1 im Zeitraum von 2021 bis 2025 eine positive Zahl, so ist der betreffende Mitgliedstaat berechtigt, die aus der Berechnung resultierenden Emissionen auszugleichen, sofern folgende Bedingungen erfüllt sind:
+
+a) Der Mitgliedstaat hat in seine Strategie, die er gemäß Artikel 15 der Verordnung (EU) 2018/1999 vorgelegt hat, laufende oder geplante konkrete Maßnahmen zur Erhaltung oder gegebenenfalls Verbesserung von Senken und Speichern aus Wäldern aufgenommen, und
+
+b) die Gesamtemissionen in der Union übersteigen im Zeitraum von 2021 bis 2025 nicht den Gesamtabbau in den in Artikel 2 Absatz 1 der vorliegenden Verordnung genannten Flächenverbuchungskategorien.
+
+Bei der Bewertung, ob die Gesamtemissionen in der Union den Gesamtabbau übersteigen, wie in Unterabsatz 1 Buchstabe b angeführt, stellt die Kommission sicher, dass die Mitgliedstaaten Doppelzählungen vermeiden, insbesondere bei der Anwendung der Flexibilitätsregelungen gemäß Artikel 12 der vorliegenden Verordnung und Artikel 7 Absatz 1 sowie Artikel 9 Absatz 2 der Verordnung (EU) 2018/842.
+
+(3) Der Ausgleich gemäß Absatz 2 darf nur gegenüber dem Referenzwert für Waldflächen als Emissionen verbuchte Senken dieses Mitgliedstaats umfassen und darf nicht mehr als 50 % der Höchstmenge des Ausgleichs betragen, der für den betreffenden Mitgliedstaat in Anhang VII für den Zeitraum von 2021 bis 2025 festgelegt ist.
+
+(4) Die Mitgliedstaaten legen der Kommission Nachweise über die gemäß Anhang VI zu berechnenden Auswirkungen natürlicher Störungen vor, um für einen Ausgleich für verbleibende, gegenüber dem Referenzwert für Waldflächen als Emissionen verbuchte Senken infrage zu kommen, und zwar bis zur vollen Höhe des von anderen Mitgliedstaaten nicht genutzten Ausgleichs, wie er in Anhang VII für den Zeitraum von 2021 bis 2025 festgelegt ist. Liegen die nachgefragten Ausgleichsmengen über der Menge des verfügbaren nicht genutzten Ausgleichs, so wird der Ausgleich anteilig auf die betreffenden Mitgliedstaaten aufgeteilt.“
+
+12.Folgender Artikel 13a wird eingefügt:
+
+„Artikel 13a
+
+Zusätzlicher Ausgleich
+
+(1) Finnland darf im Zeitraum von 2021 bis 2025 maximal weitere 5 Mio. Tonnen CO2-Äquivalent an Emissionen ausgleichen, die in den Flächenverbuchungskategorien bewirtschaftete Waldflächen, entwaldete Flächen, bewirtschaftete Ackerflächen und bewirtschaftetes Grünland verbucht sind, sofern die folgenden Bedingungen erfüllt sind:
+
+a) Finnland hat in seine Strategie, die es gemäß Artikel 15 der Verordnung (EU) 2018/1999 vorgelegt hat, laufende oder geplante konkrete Maßnahmen zur Erhaltung oder gegebenenfalls Verbesserung von Senken und Speichern aus Wäldern aufgenommen;
+
+b) die Gesamtemissionen in der Union übersteigen im Zeitraum von 2021 bis 2025 nicht den Gesamtabbau in den in Artikel 2 Absatz 1 der vorliegenden Verordnung genannten Flächenverbuchungskategorien.
+
+Bei der Bewertung, ob die Gesamtemissionen in der Union den Gesamtabbau übersteigen, wie in Unterabsatz 1 Buchstabe b angeführt, stellt die Kommission sicher, dass die Mitgliedstaaten Doppelzählungen vermeiden, insbesondere bei der Anwendung der Flexibilitätsregelungen gemäß den Artikeln 12 und 13 der vorliegenden Verordnung und Artikel 7 Absatz 1 sowie Artikel 9 Absatz 2 der Verordnung (EU) 2018/842.
+
+(2) Der zusätzliche Ausgleich
+
+a) ist begrenzt auf die Menge, die über die Flexibilitätsregelung für bewirtschaftete Waldflächen hinausgeht, die Finnland im Zeitraum von 2021 bis 2025 gemäß Artikel 13 zur Verfügung steht;
+
+b) ist begrenzt auf die Emissionen, die durch die historische Umwandlung von Waldflächen in eine andere Landnutzungskategorie verursacht wurden, sofern diese Umwandlung bis spätestens 31. Dezember 2017 erfolgte;
+
+c) muss mit Artikel 4 im Einklang stehen.
+
+(3) Der zusätzliche Ausgleich darf nicht gemäß Artikel 12 der vorliegenden Verordnung oder Artikel 7 der Verordnung (EU) 2018/842 übertragen werden.
+
+(4) Werden weniger als die in Absatz 1 genannten 5 Mio. Tonnen CO2-Äquivalent als zusätzlicher Ausgleich in Anspruch genommen, so verfällt die nicht genutzte Menge.
+
+(5) Der Zentralverwalter nimmt die sich aus Absatz 2 Buchstabe a sowie Absätze 3 und 4 des vorliegenden Artikels ergebenden Einträge in dem gemäß Artikel 40 der Verordnung (EU) 2018/1999 eingerichteten Unionsregister vor.“
+
+13.Folgender Artikel 13b wird eingefügt:
+
+„Artikel 13b
+
+Flexibilitätsmechanismus für die Landnutzung für den Zeitraum von 2026 bis 2030
+
+(1) Im Unionsregister gemäß Artikel 40 der Verordnung (EU) 2018/1999 wird ein Flexibilitätsmechanismus für die Landnutzung in Höhe von bis zu 178 Mio. Tonnen CO2-Äquivalent eingerichtet, sofern das Unionsziel gemäß Artikel 4 Absatz 2 erreicht wird. Der Flexibilitätsmechanismus wird zusätzlich zu den Flexibilitätsregelungen gemäß Artikel 12 bereitgestellt.
+
+(2) Ist für den Zeitraum von 2026 bis 2030 die im Einklang mit dieser Verordnung verbuchte und gemeldete Differenz zwischen der Summe der jährlichen Emissionen und des jährlichen Abbaus von Treibhausgasen im Hoheitsgebiet eines Mitgliedstaats in allen Meldekategorien für Flächen gemäß Artikel 2 Absatz 2 Buchstaben a bis j und der entsprechenden Zielvorgabe positiv, so kann dieser Mitgliedstaat die Flexibilität gemäß dem vorliegenden Artikel nutzen, um seine in Artikel 4 Absatz 2 festgelegte Zielvorgabe zu erreichen.
+
+(3) Ist das Ergebnis der Berechnung gemäß Absatz 2 im Zeitraum von 2026 bis 2030 positiv, so ist der betreffende Mitgliedstaat berechtigt, die Emissionen, die über der Zielvorgabe liegen, auszugleichen, sofern folgende Bedingungen erfüllt sind:
+
+a) Der Mitgliedstaat hat in seinen gemäß Artikel 14 der Verordnung (EU) 2018/1999 vorgelegten aktualisierten integrierten nationalen Energie- und Klimaplan laufende oder geplante konkrete Maßnahmen zur Erhaltung oder gegebenenfalls Verbesserung aller Senken und Speicher aus Flächen und zur Verringerung der Anfälligkeit der Flächen gegenüber natürlichen Störungen aufgenommen;
+
+b) der Mitgliedstaat hat alle anderen Flexibilitätsregelungen gemäß Artikel 12 der vorliegenden Verordnung und Artikel 7 Absatz 1 der Verordnung (EU) 2018/842 ausgeschöpft;
+
+c) in der Union ist für den Zeitraum von 2026 bis 2030 die Differenz zwischen der Summe der jährlichen Gesamtemissionen und des jährlichen Gesamtabbaus von Treibhausgasen in ihrem Hoheitsgebiet in allen Meldekategorien für Flächen gemäß Artikel 2 Absatz 2 Buchstaben a bis j und dem Unionsziel [Nettoabbau von 310 Mio. Tonnen CO2-Äquivalent] negativ.
+
+Im Rahmen der Bewertung, ob die Gesamtemissionen in der Union den Gesamtabbau übersteigen, wie in Unterabsatz 1 Buchstabe c angeführt, legt die Kommission auf der Grundlage der Auswirkungen von natürlichen Störungen und unter Heranziehung der von den Mitgliedstaaten gemäß Absatz 5 des vorliegenden Artikels vorgelegten Informationen fest, ob ein Nettoabbau in Höhe von 20 % einzubeziehen ist, den die Mitgliedstaaten aus dem Zeitraum von 2021 bis 2025 nicht übertragen haben. Die Kommission stellt bei dieser Bewertung auch sicher, dass die Mitgliedstaaten Doppelzählungen vermeiden, insbesondere bei der Anwendung der Flexibilitätsregelungen gemäß Artikel 12 der vorliegenden Verordnung und Artikel 7 Absatz 1 der Verordnung (EU) 2018/842.
+
+(4) Die Höhe des Ausgleichs gemäß Absatz 3 darf nur Senken umfassen, die gegenüber der in Anhang IIa der vorliegenden Verordnung festgelegten Zielvorgabe des betreffenden Mitgliedstaats als Emissionen verbucht sind, und darf nicht mehr als 50 % der Höchstmenge des Ausgleichs betragen, der für den betreffenden Mitgliedstaat in Anhang VII für den Zeitraum von 2026 bis 2030 festgelegt ist.
+
+(5) Die Mitgliedstaaten legen der Kommission Nachweise über die gemäß Anhang VI zu berechnenden Auswirkungen natürlicher Störungen vor, um für einen Ausgleich für verbleibende Senken, die gegenüber der in Anhang IIa der vorliegenden Verordnung festgelegten Zielvorgabe des betreffenden Mitgliedstaats als Emissionen verbucht sind, infrage zu kommen, und zwar bis zur vollen Höhe des von anderen Mitgliedstaaten nicht genutzten Ausgleichs, wie er in Anhang VII für den Zeitraum von 2026 bis 2030 festgelegt ist. Liegen die nachgefragten Ausgleichsmengen über der Menge des verfügbaren nicht genutzten Ausgleichs, so wird der Ausgleich anteilig auf die betreffenden Mitgliedstaaten aufgeteilt.“
+
+14.Folgender Artikel 13c wird eingefügt:
+
+„Artikel 13c
+
+Steuerung der Zielvorgaben
+
+Wird bei der Überprüfung im Jahr 2032 festgestellt, dass die Emissionen und der Abbau von Treibhausgasen in einem Mitgliedstaat unter Berücksichtigung der genutzten Flexibilitätsregelungen gemäß den Artikeln 12 und 13b in einem Jahr des Zeitraums von 2026 bis 2030 über den jährlichen Zielvorgaben für diesen Mitgliedstaat lagen, so findet folgende Maßnahme Anwendung:
+
+Die Menge der Nettotreibhausgasemissionen in Tonnen CO2-Äquivalent, die über der Zielvorgabe liegen, wird mit dem Faktor 1,08 multipliziert und die sich daraus ergebende Menge wird im Einklang mit den gemäß Artikel 15 erlassenen Maßnahmen zu den Treibhausgasemissionen hinzuaddiert, die der Mitgliedstaat im darauf folgenden Jahr meldet.“
+
+15.Artikel 14 Absatz 1 erhält folgende Fassung:
+
+„(1) Bis zum 15. März 2027 für den Zeitraum von 2021 bis 2025 und bis zum 15. März 2032 für den Zeitraum von 2026 bis 2030 legen die Mitgliedstaaten der Kommission einen Compliance-Bericht vor, der die Bilanz der Gesamtemissionen und des Gesamtabbaus für den betreffenden Zeitraum für die einzelnen in Artikel 2 Absatz 1 Buchstaben a bis f für den Zeitraum von 2021 bis 2025 spezifizierten Flächenverbuchungskategorien und in Artikel 2 Absatz 2 Buchstaben a bis j für den Zeitraum von 2026 bis 2030 spezifizierten Meldekategorien für Flächen unter Anwendung der in dieser Verordnung festgelegten Anrechnungs- und Verbuchungsvorschriften enthält.
+
+Der Compliance-Bericht enthält eine Bewertung
+
+a) der Strategien und Maßnahmen in Bezug auf Zielkonflikte;
+
+b) der Synergien zwischen Klimaschutz und Anpassung an den Klimawandel;
+
+c) der Synergien zwischen Klimaschutz und Biodiversität.
+
+Dieser Bericht enthält ferner gegebenenfalls Einzelheiten zu der Absicht, die Flexibilitätsregelungen gemäß Artikel 11 und die diesbezüglichen Mengen in Anspruch zu nehmen, oder zur tatsächlichen Inanspruchnahme der Flexibilitätsregelungen und der diesbezüglichen Mengen.“
+
+16.Artikel 15 Absatz 1 erhält folgende Fassung:
+
+„(1) Die Kommission erlässt gemäß Artikel 16 delegierte Rechtsakte zur Ergänzung der vorliegenden Verordnung, um die Vorschriften für die Erfassung und die ordnungsgemäße Durchführung der folgenden Vorgänge in dem gemäß Artikel 40 der Verordnung (EU) 2018/1999 eingerichteten Unionsregister festzulegen:
+
+a) Menge der Emissionen und des Abbaus in jeder Flächenverbuchungskategorie und jeder Meldekategorie für Flächen in jedem Mitgliedstaat;
+
+b) Vornahme der technischen Korrektur gemäß Artikel 4 Absatz 3 dieser Verordnung;
+
+c) Inanspruchnahme der Flexibilitätsregelungen gemäß den Artikeln 12, 13, 13a und 13b und
+
+d) Einhaltung der Zielvorgaben gemäß Artikel 13c.“
+
+17.Folgender Artikel 16a wird eingefügt:
+
+„Artikel 16a
+
+Ausschussverfahren
+
+(1) Die Kommission wird von dem Ausschuss für Klimaänderung, der durch Artikel 44 Absatz 3 der Verordnung (EU) 2018/1999 eingesetzt wurde, unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates 44 .
+
+(2) Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.“
+
+18.Artikel 17 Absatz 2 erhält folgende Fassung:
+
+„(2) Die Kommission legt dem Europäischen Parlament und dem Rat spätestens sechs Monate nach der [...] im Rahmen des Artikels 14 des Übereinkommens von Paris vereinbarten weltweiten Bestandsaufnahme einen Bericht vor über die Durchführung dieser Verordnung, gegebenenfalls einschließlich einer Bewertung der Auswirkungen der in Artikel 11 genannten Flexibilitätsregelungen, sowie zu dem Beitrag der vorliegenden Verordnung zu dem übergeordneten Ziel der Union für die Reduzierung der Treibhausgasemissionen bis 2030 sowie deren Beitrag zu den Zielen des Übereinkommens von Paris, insbesondere in Bezug auf die Notwendigkeit zusätzlicher Unionsstrategien und -maßnahmen, damit die erforderliche Steigerung der Treibhausgasemissionsreduktionen und des Abbaus von Treibhausgasen in der Union verwirklicht werden kann.
+
+Im Anschluss an den Bericht unterbreitet die Kommission Gesetzgebungsvorschläge, wenn sie dies für angemessen hält. In den Vorschlägen werden insbesondere jährliche Zielvorgaben und Governance-Maßnahmen zur Erreichung des in Artikel 4 Absatz 4 enthaltenen Ziels, bis 2035 Klimaneutralität zu erreichen, zusätzliche Strategien und Maßnahmen der Union sowie ein Rahmen für die Zeit nach 2035 festgelegt, durch die die Emissionen und der Abbau von Treibhausgasen aus weiteren Sektoren, wie Meere und Binnengewässer, in den Geltungsbereich der Verordnung aufgenommen werden.“
+
+19.Anhang I wird gemäß Anhang I dieser Verordnung geändert.
+
+20.Der Wortlaut in Anhang II dieser Verordnung wird als Anhang IIa eingefügt.
+

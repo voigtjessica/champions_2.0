@@ -1,0 +1,27 @@
+ Die Verordnung (EU) 2018/1999 wird wie folgt geändert:
+
+1.In Artikel 2 werden folgende Nummern 63 und 64 angefügt:
+
+„63. ‚geografisches Informationssystem‘ ein IT-System zur Erfassung, Speicherung, Analyse und Darstellung geografisch referenzierter Informationen;
+
+64. ‚geodatenbasierter Antrag‘ ein elektronisches Antragsformular einschließlich einer IT-Anwendung auf der Grundlage eines geografischen Informationssystems, über das die Begünstigten die landwirtschaftlichen Parzellen des Betriebs und nichtlandwirtschaftliche Flächen, für die Zahlungen beantragt werden, raumbezogen melden können.“
+
+2.Artikel 4 Buchstabe a Nummer 1 Ziffer ii erhält folgende Fassung:
+
+„die Verpflichtungen und nationalen Zielvorgaben des Mitgliedstaats für den Nettoabbau von Treibhausgasen gemäß Artikel 4 Absätze 1 und 2 der Verordnung (EU) 2018/841 und seine Beiträge, durch die das Unionsziel gemäß Artikel 4 Absatz 4 der genannten Verordnung verwirklicht werden soll, die Nettotreibhausgasemissionen bis 2035 auf null zu reduzieren und danach negative Emissionen zu erreichen;“
+
+3.Artikel 38 wird wie folgt geändert:
+
+a)Folgender Absatz 1a wird eingefügt:
+
+„Im Jahr 2025 unterzieht die Kommission die von den Mitgliedstaaten gemäß Artikel 26 Absatz 4 der vorliegenden Verordnung übermittelten Daten aus den nationalen Inventaren einer umfassenden Überprüfung, um die jährlichen Zielvorgaben für die Reduktion der Nettotreibhausgasemissionen der Mitgliedstaaten gemäß Artikel 4 Absatz 3 der Verordnung (EU) 2018/841 und die jährlichen Emissionszuweisungen der Mitgliedstaaten gemäß Artikel 4 Absatz 3 der Verordnung (EU) 2018/842 festzulegen.“
+
+b)In Absatz 2 erhält der einleitende Satz folgende Fassung:
+
+„Die umfassende Überprüfung nach den Absätzen 1 und 1a enthält“
+
+c)Absatz 4 erhält folgende Fassung:
+
+„Nach Abschluss der umfassenden Überprüfung gemäß Absatz 1 bestimmt die Kommission im Wege von Durchführungsrechtsakten die Gesamtsumme der Emissionen für das betreffende Jahr, die sich aus den für jeden Mitgliedstaat vorliegenden korrigierten Inventardaten ergibt, aufgeschlüsselt nach den unter Artikel 9 der Verordnung (EU) 2018/842 fallenden Emissionsdaten und den in Anhang V Teil 1 Buchstabe c der vorliegenden Verordnung genannten Emissionsdaten, und bestimmt die Gesamtsumme der unter Artikel 4 der Verordnung (EU) 2018/841 fallenden Emissionen und des Abbaus.“
+
+4.Anhang V wird gemäß Anhang III dieser Verordnung geändert. 
