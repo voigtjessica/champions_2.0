@@ -1,0 +1,1409 @@
+,gesetzt,artikel,absatz,text
+0,Data Act,"1 
+",1,"Diese Verordnung enthält harmonisierte Vorschriften über die Bereitstellung von 
+Daten, die bei der Nutzung eines Produktes oder verbundenen Dienstes erzeugt 
+werden, für den Nutzer dieses Produktes oder Dienstes, über die Bereitstellung von 
+Daten durch Dateninhaber für Datenempfänger und über die Bereitstellung von 
+Daten durch Dateninhaber für öffentliche Stellen oder Organe, Einrichtungen und 
+sonstige Stellen der Union, soweit diese Daten wegen außergewöhnlicher 
+Notwendigkeit zur Wahrnehmung einer Aufgabe von öffentlichem Interesse benötigt 
+werden. 
+"
+0,Data Act,"1 
+",2,"Diese Verordnung gilt für 
+a) Hersteller von Produkten und Erbringer verbundener Dienste, die in der Union 
+in Verkehr gebracht werden, und die Nutzer solcher Produkte oder Dienste; 
+b) Dateninhaber, die Datenempfängern in der Union Daten bereitstellen; 
+c) Datenempfänger in der Union, denen Daten bereitgestellt werden; 
+d) öffentliche Stellen und Organe, Einrichtungen und sonstige Stellen der Union, 
+die von Dateninhabern verlangen, Daten bereitzustellen, sofern diese Daten 
+wegen außergewöhnlicher Notwendigkeit zur Wahrnehmung einer Aufgabe 
+von öffentlichem Interesse benötigt werden, sowie die Dateninhaber, die solche 
+Daten auf ein solches Verlangen hin bereitstellen; 
+e) Anbieter von Datenverarbeitungsdiensten, die Kunden in der Union solche 
+Dienste anbieten. 
+"
+0,Data Act,"1 
+",3,"Die Rechtsvorschriften der Union über den Schutz personenbezogener Daten, die 
+Privatsphäre, die Vertraulichkeit der Kommunikation und die Integrität von 
+Endgeräten gelten für personenbezogene Daten, die im Zusammenhang mit den in 
+dieser Verordnung festgelegten Rechten und Pflichten verarbeitet werden. Diese 
+Verordnung berührt nicht die Anwendbarkeit der Rechtsvorschriften der Union über 
+den Schutz personenbezogener Daten, insbesondere der Verordnung (EU) 2016/679 
+und der Richtlinie 2002/58/EG, sowie die Befugnisse und Zuständigkeiten der 
+Aufsichtsbehörden. Soweit die in Kapitel II dieser Verordnung festgelegten Rechte 
+betroffen sind und es sich bei den Nutzern um von der Verarbeitung 
+personenbezogener Daten betroffene Personen handelt, die den Rechten und 
+Pflichten des genannten Kapitels unterliegen, ergänzen die Bestimmungen dieser 
+Verordnung das Recht auf Datenübertragbarkeit nach Artikel 20 der Verordnung 
+(EU) 2016/679. 
+"
+0,Data Act,"1 
+",4,"Diese Verordnung berührt nicht Rechtsvorschriften der Union und die nationalen 
+Rechtsvorschriften über die Datenweitergabe, den Datenzugang und die 
+Datennutzung zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung 
+von Straftaten oder der Strafvollstreckung, einschließlich der Verordnung DE 47  DE (EU) 2021/784 des Europäischen Parlaments und des Rates72 und der [Vorschläge 
+über elektronische Beweismittel COM(2018) 225 und COM(2018) 226], sobald 
+diese angenommen sind, sowie die internationale Zusammenarbeit in diesem 
+Bereich. Diese Verordnung berührt nicht die Datenerhebung, den Datenaustausch, 
+den Datenzugang und die Datennutzung gemäß der Richtlinie (EU) 2015/849 des 
+Europäischen Parlaments und des Rates zur Verhinderung der Nutzung des 
+Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung und 
+der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates über die 
+Übermittlung von Angaben bei Geldtransfers. Im Einklang mit dem Unionsrecht 
+berührt diese Verordnung nicht die Zuständigkeiten der Mitgliedstaaten für 
+Tätigkeiten in Bezug auf die öffentliche Sicherheit, Verteidigung, nationale 
+Sicherheit, Zoll- und Steuerverwaltung sowie Gesundheit und Sicherheit der Bürger. 
+"
+0,Data Act,"2 
+",NA,"Begriffsbestimmungen 
+Für die Zwecke dieser Verordnung bezeichnet der Ausdruck 
+1. „Daten“ jede digitale Darstellung von Handlungen, Tatsachen oder Informationen
+sowie jede Zusammenstellung solcher Handlungen, Tatsachen oder Informationen 
+auch in Form von Ton-, Bild- oder audiovisuellem Material; 
+2. „Produkt“ einen körperlichen beweglichen Gegenstand, der auch in einem
+unbeweglichen Gegenstand enthalten sein kann, Daten über seine Nutzung oder 
+Umgebung erlangt, erzeugt oder sammelt und Daten über einen öffentlich 
+zugänglichen elektronischen Kommunikationsdienst übermitteln kann und dessen 
+Hauptfunktion nicht die Speicherung und Verarbeitung von Daten ist; 
+3. „verbundener Dienst“ einen digitalen Dienst, einschließlich Software, der so in ein
+Produkt integriert oder so mit ihm verbunden ist, dass das Produkt ohne ihn eine 
+seiner Funktionen nicht ausführen könnte; 
+4. „virtuelle Assistenten“ Software, die Aufträge, Aufgaben oder Fragen verarbeiten
+kann, auch aufgrund von Eingaben in Ton- und Schriftform, Gesten oder 
+Bewegungen, und auf der Grundlage dieser Aufträge, Aufgaben oder Fragen den 
+Zugang zu eigenen Diensten und Diensten Dritter gewährt oder eigene Geräte und 
+Geräte Dritter steuert; 
+5. „Nutzer“ eine natürliche oder juristische Person, die ein Produkt besitzt, mietet oder 
+least oder eine Dienstleistung in Anspruch nimmt; 
+6. „Dateninhaber“ eine juristische oder natürliche Person, die nach dieser Verordnung,
+nach anwendbarem Unionsrecht oder nach den anwendbaren nationalen 
+Rechtsvorschriften zur Umsetzung des Unionsrechts berechtigt oder verpflichtet 
+bzw. im Falle nicht personenbezogener Daten und durch die Kontrolle über die 
+technische Konzeption des Produktes und damit verbundener Dienste in der Lage ist, 
+bestimmte Daten bereitzustellen; 
+7. „Datenempfänger“ eine juristische oder natürliche Person, die zu Zwecken innerhalb 
+ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit 
+handelt, ohne Nutzer eines Produktes oder verbundenen Dienstes zu sein, und der 
+vom Dateninhaber Daten bereitgestellt werden, einschließlich eines Dritten, dem der 
+                                                 
+72 Verordnung (EU) 2021/784 des Europäischen Parlaments und des Rates vom 29. April 2021 zur 
+Bekämpfung der Verbreitung terroristischer Online-Inhalte (ABl. L 172 vom 17.5.2021, S. 79). DE 48  DE Dateninhaber auf Verlangen des Nutzers oder im Einklang mit einer Rechtspflicht 
+aus anderen Rechtsvorschriften der Union oder aus nationalen Rechtsvorschriften zur 
+Umsetzung des Unionsrechts Daten bereitstellt; 
+8. „Unternehmen“ eine natürliche oder juristische Person, die in Bezug auf von dieser
+Verordnung erfasste Verträge und Praktiken zu Zwecken innerhalb ihrer 
+gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit handelt; 
+9. „öffentliche Stelle“ die nationalen, regionalen und lokalen Behörden, Körperschaften
+und Einrichtungen des öffentlichen Rechts der Mitgliedstaaten oder Verbände, die 
+aus einer oder mehreren dieser Behörden, Körperschaften oder Einrichtungen 
+bestehen; 
+10. „öffentlicher Notstand“ eine außergewöhnliche Situation, die sich negativ auf die
+Bevölkerung der Union, eines Mitgliedstaats oder eines Teils davon auswirkt und das 
+Risiko schwerwiegender und dauerhafter Folgen für die Lebensbedingungen oder die 
+wirtschaftliche Stabilität oder die Gefahr einer erheblichen Beeinträchtigung 
+wirtschaftlicher Vermögenswerte in der Union oder in dem bzw. den betroffenen 
+Mitgliedstaaten birgt; 
+11. „Verarbeitung“ jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten
+Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit Daten in 
+elektronischer Form wie das Erheben, das Erfassen, die Organisation, das Ordnen, 
+die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die 
+Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere 
+Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, 
+das Löschen oder die Vernichtung; 
+12. „Datenverarbeitungsdienst“ eine digitale Dienstleistung, bei der es sich um keinen
+Online-Inhaltedienst im Sinne des Artikels 2 Absatz 5 der Verordnung 
+(EU) 2017/1128 handelt, die einem Kunden bereitgestellt wird und eine Verwaltung 
+auf Abruf und einen breiten Fernzugang zu einem skalierbaren und elastischen Pool 
+gemeinsam nutzbarer, zentralisierter, verteilter oder hochgradig verteilter 
+Rechenressourcen ermöglicht; 
+13. „Dienstart“ eine Reihe von Datenverarbeitungsdiensten, die dasselbe Hauptziel
+haben und dasselbe grundlegende Dienstmodell für die Datenverarbeitung 
+aufweisen; 
+14. „Funktionsäquivalenz“ dieAufrechterhaltung eines Mindestfunktionsumfangs in der 
+Umgebung eines neuen Datenverarbeitungsdienstes nach dem Wechselvorgang, 
+sodass der Nutzer bei einer Eingabe zu Kernelementen des Dienstes vom 
+übernehmenden Dienst das gleiche Ergebnis mit der gleichen Leistung und dem 
+gleichen Niveau der Sicherheit, Betriebsstabilität und Dienstqualität erhält wie vom 
+vorherigen Dienst zum Zeitpunkt der Vertragskündigung; 
+15. „offene Interoperabilitätsspezifikationen“ technische IKT-Spezifikationen im Sinne 
+der Verordnung (EU) Nr. 1025/2012, die leistungsbezogen darauf ausgerichtet sind, 
+die Interoperabilität zwischen Datenverarbeitungsdiensten herzustellen; 
+16. „intelligenter Vertrag“ ein in einem elektronischen Vorgangsregistersystem
+gespeichertes Computerprogramm, bei dem das Ergebnis der Programmausführung 
+in dem elektronischen Vorgangsregister aufgezeichnet wird; 
+17.„elektronisches Vorgangsregister“ ein elektronisches Vorgangsregister im Sinne des
+Artikels 3 Nummer 53 der Verordnung (EU) Nr. 910/2014; DE 49  DE 18. „gemeinsame Spezifikationen“ ein Dokument, bei dem es sich nicht um eine Norm
+handelt und das technische Lösungen enthält, die es ermöglichen, bestimmte 
+Anforderungen und Pflichten, die im Rahmen dieser Verordnung festgelegt worden 
+sind, zu erfüllen; 
+19. „Interoperabilität“ die Fähigkeit von zwei oder mehr Datenräumen oder
+Kommunikationsnetzen, Systemen, Produkten, Anwendungen oder Komponenten, 
+Daten auszutauschen und zu verwenden, um ihre Funktionen auszuführen; 
+20. „harmonisierte Norm“ eine Norm im Sinne des Artikels 2 Nummer 1 Buchstabe c 
+der Verordnung (EU) Nr. 1025/2012. 
+KAPITEL II 
+DATENWEITERGABE VON UNTERNEHMEN AN 
+VERBRAUCHER UND ZWISCHEN UNTERNEHMEN 
+"
+0,Data Act,"3 
+",1,"Produkte werden so konzipiert und hergestellt und verbundene Dienste so erbracht, 
+dass die bei ihrer Nutzung erzeugten Daten standardmäßig für den Nutzer einfach, 
+sicher und – soweit relevant und angemessen – direkt zugänglich sind. 
+"
+0,Data Act,"3 
+",2,"Vor Abschluss eines Kauf-, Miet- oder Leasingvertrags für ein Produkt oder 
+verbundenen Dienst werden dem Nutzer mindestens folgende Informationen in 
+einem klaren und verständlichen Format bereitgestellt: 
+a) Art und Umfang der Daten, die voraussichtlich bei der Nutzung des Produktes 
+oder verbundenen Dienstes erzeugt werden; 
+b) ob die Daten voraussichtlich kontinuierlich und in Echtzeit erzeugt werden; 
+c) wie der Nutzer auf diese Daten zugreifen kann; 
+d) ob der Hersteller, der das Produkt liefert, oder der Dienstleister, der den 
+verbundenen Dienst erbringt, beabsichtigt, die Daten selbst zu nutzen oder 
+einem Dritten die Nutzung der Daten zu gestatten, und falls ja, für welche 
+Zwecke diese Daten genutzt werden sollen; 
+e) ob der Verkäufer, Mieter oder Leasinggeber der Dateninhaber ist und, falls 
+nicht, die Identität des Dateninhabers, z. B. sein Handelsname und die 
+Anschrift des Ortes, an dem er niedergelassen ist; 
+f) die Kommunikationsmittel, mit denen der Nutzer den Dateninhaber schnell 
+kontaktieren und effizient mit diesem kommunizieren kann; 
+g) wie der Nutzer veranlassen kann, dass die Daten an einen Dritten 
+weitergegeben werden; 
+h) das Recht des Nutzers, bei der in Artikel 31 genannten zuständigen Behörde 
+Beschwerde wegen eines Verstoßes gegen die Bestimmungen dieses Kapitels 
+einzulegen. DE 50  DE "
+0,Data Act,"4 
+",1,"Soweit der Nutzer nicht direkt vom Produkt aus auf die Daten zugreifen kann, stellt 
+der Dateninhaber dem Nutzer die bei der Nutzung eines Produktes oder verbundenen 
+Dienstes erzeugten Daten unverzüglich, kostenlos und gegebenenfalls kontinuierlich 
+und in Echtzeit zur Verfügung. Dies geschieht auf einfaches Verlangen auf 
+elektronischem Wege, soweit dies technisch machbar ist. 
+"
+0,Data Act,"4 
+",2,"Der Dateninhaber verlangt vom Nutzer keine Informationen, die über das 
+hinausgehen, was erforderlich ist, um dessen Eigenschaft als Nutzer gemäß Absatz 1 
+zu überprüfen. Der Dateninhaber bewahrt keine Informationen über den Zugang des 
+Nutzers zu den verlangten Daten auf, die über das hinausgehen, was für die 
+ordnungsgemäße Ausführung des Zugangsverlangens des Nutzers und für die 
+Sicherheit und Pflege der Dateninfrastruktur erforderlich ist. 
+"
+0,Data Act,"4 
+",3,"Geschäftsgeheimnisse werden nur offengelegt, wenn alle besonderen Maßnahmen 
+getroffen worden sind, die erforderlich sind, um die Vertraulichkeit der 
+Geschäftsgeheimnisse, insbesondere gegenüber Dritten, zu wahren. Der 
+Dateninhaber und der Nutzer können Maßnahmen vereinbaren, um die 
+Vertraulichkeit der gemeinsam genutzten Daten, insbesondere gegenüber Dritten, zu 
+wahren. 
+"
+0,Data Act,"4 
+",4,"Der Nutzer darf die aufgrund eines Verlangens nach Absatz 1 erlangten Daten nicht 
+zur Entwicklung eines Produktes nutzen, das mit dem Produkt, von dem die Daten 
+stammen, im Wettbewerb steht. 
+"
+0,Data Act,"4 
+",5,"Ist der Nutzer keine von der Datenverarbeitung betroffene Person, so darf der 
+Dateninhaber personenbezogene Daten, die bei der Nutzung eines Produktes oder 
+verbundenen Dienstes erzeugt werden, dem Nutzer nur dann zur Verfügung stellen, 
+wenn es dafür eine gültige Rechtsgrundlage gemäß Artikel 6 Absatz 1 der 
+Verordnung (EU) 2016/679 gibt und gegebenenfalls die Bedingungen des Artikels 9 
+der Verordnung (EU) 2016/679 erfüllt sind. 
+"
+0,Data Act,"4 
+",6,"Der Dateninhaber darf nicht personenbezogene Daten, die bei der Nutzung eines 
+Produktes oder verbundenen Dienstes erzeugt werden, nur auf der Grundlage einer 
+vertraglichen Vereinbarung mit dem Nutzer nutzen. Der Dateninhaber darf solche 
+Daten, die bei der Nutzung des Produktes oder verbundenen Dienstes erzeugt 
+werden, nicht verwenden, um daraus Einblicke in die wirtschaftliche Lage, 
+Vermögenswerte und Produktionsmethoden des Nutzers oder in die Nutzung durch 
+den Nutzer zu erlangen, wenn dies die gewerbliche Position des Nutzers auf den 
+Märkten, auf denen dieser tätig ist, untergraben könnte. 
+"
+0,Data Act,"5 
+",1,"Auf Verlangen eines Nutzers oder einer im Namen eines Nutzers handelnden Partei 
+stellt der Dateninhaber die bei der Nutzung eines Produktes oder verbundenen 
+Dienstes erzeugten Daten einem Dritten unverzüglich, für den Nutzer kostenlos, in 
+derselben Qualität, die dem Dateninhaber zur Verfügung steht, und gegebenenfalls 
+kontinuierlich und in Echtzeit bereit. 
+"
+0,Data Act,"5 
+",2,"Ein Unternehmen, das zentrale Plattformdienste erbringt und für mindestens einen 
+dieser Dienste nach Artikel [...] der [Verordnung XXX über bestreitbare und faire DE 51  DE Märkte im digitalen Sektor (Gesetz über digitale Märkte)73] als Gatekeeper benannt 
+wurde, kommt nicht als zulässiger Dritter im Sinne dieses Artikels in Betracht und 
+darf daher nicht 
+a) einen Nutzer in irgendeiner Weise auffordern oder geschäftlich anreizen, auch 
+nicht durch eine finanzielle oder sonstige Gegenleistung, Daten, die vom 
+Nutzer aufgrund eines Verlangens nach Artikel 4 Absatz 1 erlangt wurden, für 
+einen seiner Dienste bereitzustellen; 
+b) einen Nutzer auffordern oder geschäftlich anreizen, vom Dateninhaber zu 
+verlangen, gemäß Absatz 1 dieses Artikels Daten für einen seiner Dienste 
+bereitzustellen; 
+c) von einem Nutzer Daten erhalten, die der Nutzer aufgrund eines Verlangens 
+nach Artikel 4 Absatz 1 erlangt hat. 
+"
+0,Data Act,"5 
+",3,"Der Nutzer oder der Dritte braucht keine Informationen herauszugeben, die über das 
+hinausgehen, was erforderlich ist, um dessen Eigenschaft als Nutzer oder Dritter 
+gemäß Absatz 1 zu überprüfen. Der Dateninhaber bewahrt keine Informationen über 
+den Zugang des Dritten zu den verlangten Daten auf, die über das hinausgehen, was 
+für die ordnungsgemäße Ausführung des Zugangsverlangens des Dritten und für die 
+Sicherheit und Pflege der Dateninfrastruktur erforderlich ist. 
+"
+0,Data Act,"5 
+",4,"Der Dritte darf keine Zwangsmittel einsetzen oder offensichtliche Lücken in der 
+technischen Infrastruktur des Dateninhabers, mit der die Daten geschützt werden 
+sollen, ausnutzen, um Zugang zu Daten zu erlangen. 
+"
+0,Data Act,"5 
+",5,"Der Dateninhaber darf nicht personenbezogene Daten, die bei der Nutzung des 
+Produktes oder verbundenen Dienstes erzeugt werden, nicht verwenden, um daraus 
+Einblicke in die wirtschaftliche Lage, Vermögenswerte und Produktionsmethoden 
+des Dritten oder in die Nutzung durch den Dritten zu erlangen, wenn dies die 
+gewerbliche Position des Dritten auf den Märkten, auf denen dieser tätig ist, 
+untergraben könnte, es sei denn, der Dritte hat einer solchen Nutzung zugestimmt 
+und hat die technische Möglichkeit, diese Zustimmung jederzeit zu widerrufen. 
+"
+0,Data Act,"5 
+",6,"Ist der Nutzer keine von der Datenverarbeitung betroffene Person, so dürfen 
+personenbezogene Daten, die bei der Nutzung eines Produktes oder verbundenen 
+Dienstes erzeugt werden, nur dann bereitgestellt werden, wenn es dafür eine gültige 
+Rechtsgrundlage gemäß Artikel 6 Absatz 1 der Verordnung (EU) 2016/679 gibt und 
+gegebenenfalls die Bedingungen des Artikels 9 der Verordnung (EU) 2016/679 
+erfüllt sind. 
+"
+0,Data Act,"5 
+",7,"Die Ausübung der Rechte der betroffenen Person gemäß der Verordnung 
+(EU) 2016/679 und insbesondere des Rechts auf Datenübertragbarkeit gemäß 
+Artikel 20 der genannten Verordnung darf durch Versäumnisse seitens des 
+Dateninhabers oder des Dritten, Vorkehrungen für die Übermittlung der Daten zu 
+treffen, nicht behindert, verhindert oder beeinträchtigt werden. 
+"
+0,Data Act,"5 
+",8,"Geschäftsgeheimnisse werden Dritten gegenüber nur insoweit offengelegt, als dies 
+für den zwischen dem Nutzer und dem Dritten vereinbarten Zweck unbedingt 
+erforderlich ist und der Dritte alle zwischen ihm und dem Dateninhaber vereinbarten 
+besonderen Maßnahmen getroffen hat, die erforderlich sind, um die Vertraulichkeit 
+des Geschäftsgeheimnisses zu wahren. In diesem Fall werden die Eigenschaft der 
+Daten als Geschäftsgeheimnisse und die Maßnahmen zur Wahrung der 
+                                                 
+73 ABl. […]. DE 52  DE Vertraulichkeit in der Vereinbarung zwischen dem Dateninhaber und dem Dritten 
+festgelegt. 
+"
+0,Data Act,"5 
+",9,"Das Recht gemäß Absatz 1 darf die Datenschutzrechte anderer Personen nicht 
+beeinträchtigen. 
+"
+0,Data Act,"6 
+",1,"Ein Dritter verarbeitet die ihm nach Artikel 5 bereitgestellten Daten nur für die 
+Zwecke und unter den Bedingungen, die er mit dem Nutzer vereinbart hat, und – 
+soweit personenbezogene Daten betroffen sind – vorbehaltlich der Rechte der 
+betroffenen Person, und löscht die Daten, sobald sie für den vereinbarten Zweck 
+nicht mehr benötigt werden. 
+"
+0,Data Act,"6 
+",2,"Der Dritte darf nicht 
+a) den Nutzer in irgendeiner Weise zwingen, täuschen oder manipulieren, indem 
+er – auch mittels einer digitalen Schnittstelle mit dem Nutzer – die Autonomie, 
+Entscheidungsfähigkeit oder Wahlmöglichkeiten des Nutzers untergräbt oder 
+beeinträchtigt; 
+b) die erhaltenen Daten für das Profiling natürlicher Personen im Sinne des 
+Artikels 4 Nummer 4 der Verordnung (EU) 2016/679 nutzen, es sei denn, dies 
+ist erforderlich, um den vom Nutzer gewünschten Dienst zu erbringen; 
+c) die erhaltenen Daten einem anderen Dritten in roher, aggregierter oder 
+abgeleiteter Form bereitstellen, es sei denn, dies ist erforderlich, um den vom 
+Nutzer gewünschten Dienst zu erbringen; 
+d) die erhaltenen Daten einem Unternehmen, das zentrale Plattformdienste 
+erbringt und für mindestens einen dieser Dienste gemäß Artikel […] der
+[Verordnung über bestreitbare und faire Märkte im digitalen Sektor (Gesetz 
+über digitale Märkte)] als Gatekeeper benannt wurde, bereitstellen; 
+e) die erhaltenen Daten nutzen, um ein Produkt zu entwickeln, das mit dem 
+Produkt, von dem die Daten stammen, im Wettbewerb steht, oder die Daten zu 
+diesem Zweck an einen anderen Dritten weitergeben; 
+f) den Nutzer – auch nicht durch vertragliche Pflichten – daran hindern, die 
+erhaltenen Daten anderen Parteien bereitzustellen. 
+"
+0,Data Act,"7 
+",1,"Die Pflichten dieses Kapitels gelten nicht für Daten, die bei der Nutzung von 
+Produkten oder verbundenen Diensten erzeugt werden, die von Unternehmen 
+hergestellt bzw. erbracht werden, die als Kleinst- oder Kleinunternehmen im Sinne 
+des Artikels 2 des Anhangs der Empfehlung 2003/361/EG gelten, sofern diese 
+Unternehmen keine Partnerunternehmen oder verbundenen Unternehmen im Sinne 
+des Artikels 3 des Anhangs der Empfehlung 2003/361/EG haben, die nicht als 
+Kleinst- oder Kleinunternehmen gelten. 
+"
+0,Data Act,"7 
+",2,"Wird in dieser Verordnung auf Produkte und verbundene Dienste Bezug genommen, 
+so schließt diese Bezugnahme auch virtuelle Assistenten ein, soweit diese für denDE 53  DE Zugang zu einem Produkt oder verbundenen Dienst oder dessen Steuerung benutzt 
+werden. 
+KAPITEL III 
+PFLICHTEN DER DATENINHABER, DIE RECHTLICH 
+VERPFLICHTET SIND, DATEN BEREITZUSTELLEN 
+"
+0,Data Act,"8 
+",1,"Ist ein Dateninhaber nach Artikel 5 oder nach anderen Rechtsvorschriften der Union 
+oder nationalen Rechtsvorschriften zur Umsetzung des Unionsrechts verpflichtet, 
+einem Datenempfänger Daten bereitzustellen, so geschieht dies zu fairen, 
+angemessenen und nichtdiskriminierenden Bedingungen und in transparenter Weise 
+im Einklang mit den Bestimmungen dieses Kapitels und des Kapitels IV. 
+"
+0,Data Act,"8 
+",2,"Der Dateninhaber vereinbart mit dem Datenempfänger die Bedingungen für die 
+Bereitstellung der Daten. Eine Vertragsklausel in Bezug auf den Datenzugang und 
+die Datennutzung oder die Haftung und Rechtsbehelfe bei Verletzung oder 
+Beendigung datenbezogener Pflichten ist nicht bindend, wenn sie die Bedingungen 
+des Artikels 13 erfüllt oder wenn sie die Ausübung der Rechte des Nutzers nach 
+Kapitel II ausschließt, davon abweicht oder deren Wirkung abändert. 
+"
+0,Data Act,"8 
+",3,"Bei der Bereitstellung von Daten darf ein Dateninhaber nicht zwischen 
+vergleichbaren Kategorien von Datenempfängern, einschließlich seiner 
+Partnerunternehmen oder verbundenen Unternehmen im Sinne des Artikels 3 des 
+Anhangs der Empfehlung 2003/361/EG, diskriminieren. Ist ein Datenempfänger der 
+Ansicht, dass die Bedingungen, unter denen ihm Daten bereitgestellt werden, 
+diskriminierend sind, so obliegt dem Dateninhaber der Nachweis, dass keine 
+Diskriminierung vorliegt. 
+"
+0,Data Act,"8 
+",4,"Ein Dateninhaber darf einem Datenempfänger Daten nur dann exklusiv zur 
+Verfügung stellen, wenn der Nutzer dies gemäß Kapitel II verlangt hat. 
+"
+0,Data Act,"8 
+",5,"Dateninhaber und Datenempfänger brauchen keine Informationen herauszugeben, 
+die über das hinausgehen, was erforderlich ist, um die Einhaltung der für die 
+Datenbereitstellung vereinbarten Vertragsbedingungen oder die Erfüllung ihrer 
+Pflichten aus dieser Verordnung oder aus anderen anwendbaren Rechtsvorschriften 
+der Union oder nationalen Rechtsvorschriften zur Umsetzung des Unionsrechts zu 
+überprüfen. 
+"
+0,Data Act,"8 
+",6,"Eine Pflicht, einem Datenempfänger Daten bereitzustellen, verpflichtet nicht zur 
+Offenlegung von Geschäftsgeheimnissen im Sinne der Richtlinie (EU) 2016/943, es 
+sei denn, im Unionsrecht, einschließlich des Artikels 6 dieser Verordnung, oder in 
+nationalen Rechtsvorschriften zur Umsetzung des Unionsrechts ist etwas anderes 
+vorgesehen. 
+"
+0,Data Act,"9 
+",1,"Jede Gegenleistung, die zwischen einem Dateninhaber und einem Datenempfänger 
+für die Bereitstellung von Daten vereinbart wird, muss angemessen sein. DE 54  DE "
+0,Data Act,"9 
+",2,"Ist der Datenempfänger ein Kleinstunternehmen oder ein kleines oder mittleres 
+Unternehmen im Sinne des Artikels 2 des Anhangs der Empfehlung 2003/361/EG, so 
+darf die vereinbarte Gegenleistung nicht höher sein als die Kosten, die mit der 
+Bereitstellung der Daten für den Datenempfänger unmittelbar zusammenhängen und 
+dem Verlangen zuzurechnen sind. Artikel 8 Absatz 3 gilt entsprechend. 
+"
+0,Data Act,"9 
+",3,"Dieser Artikel steht dem nicht entgegen, dass andere Rechtsvorschriften der Union 
+oder nationale Rechtsvorschriften zur Umsetzung des Unionsrechts eine 
+Gegenleistung für die Bereitstellung von Daten ausschließen oder eine geringere 
+Gegenleistung vorsehen. 
+"
+0,Data Act,"9 
+",4,"Der Dateninhaber stellt dem Datenempfänger Informationen zur Verfügung, denen 
+die Grundlage für die Berechnung der Gegenleistung so detailliert zu entnehmen ist, 
+dass der Datenempfänger überprüfen kann, ob die Anforderungen des Absatzes 1 
+und gegebenenfalls des Absatzes 2 erfüllt sind. 
+"
+0,Data Act,"10 
+",1,"Dateninhaber und Datenempfänger haben Zugang zu Streitbeilegungsstellen, die 
+nach Absatz 2 dieses Artikels zugelassen sind, um Streitigkeiten in Bezug auf die 
+Festlegung fairer, angemessener und nichtdiskriminierender Bedingungen für die 
+Bereitstellung von Daten und die transparente Art und Weise der Bereitstellung von 
+Daten gemäß den Artikeln 8 und 9 beizulegen. 
+"
+0,Data Act,"10 
+",2,"Der Mitgliedstaat, in dem die Streitbeilegungsstelle niedergelassen ist, lässt diese 
+Stelle auf deren Antrag hin zu, nachdem die Stelle nachgewiesen hat, dass sie alle 
+folgenden Bedingungen erfüllt: 
+a) sie ist unparteiisch und unabhängig und wird ihre Entscheidungen nach klaren 
+und fairen Verfahrensregeln treffen; 
+b) sie verfügt über das erforderliche Fachwissen in Bezug auf die Festlegung 
+fairer, angemessener und nichtdiskriminierender Bedingungen für die 
+Bereitstellung von Daten und die transparente Art und Weise ihrer 
+Bereitstellung, das es der Stelle ermöglicht, solche Bedingungen wirksam 
+festzulegen; 
+c) sie ist über elektronische Kommunikationsmittel leicht erreichbar; 
+d) sie ist in der Lage, ihre Entscheidungen rasch, effizient und kostengünstig in 
+mindestens einer Amtssprache der Union zu treffen. 
+Ist in einem Mitgliedstaat bis zum [Datum des Geltungsbeginns der Verordnung] 
+keine Streitbeilegungsstelle zugelassen worden, so richtet dieser Mitgliedstaat eine 
+Streitbeilegungsstelle ein, die die in den Buchstaben a bis d dieses Absatzes 
+genannten Bedingungen erfüllt, und lässt diese zu. 
+"
+0,Data Act,"10 
+",3,"Die Mitgliedstaaten teilen der Kommission die nach Absatz 2 zugelassenen 
+Streitbeilegungsstellen mit. Die Kommission veröffentlicht auf einer eigens hierfür 
+eingerichteten Website eine Liste dieser Stellen und hält diese auf dem neuesten 
+Stand. 
+"
+0,Data Act,"10 
+",4,"Die Streitbeilegungsstellen machen den betroffenen Parteien die Entgelte oder die 
+zur Festsetzung der Entgelte verwendeten Methoden bekannt, bevor diese Parteien 
+eine Entscheidung beantragen. DE 55  DE "
+0,Data Act,"10 
+",5,"Die Streitbeilegungsstellen verweigern die Bearbeitung eines 
+Streitbeilegungsantrags, der bereits bei einer anderen Streitbeilegungsstelle oder 
+einem Gericht eines Mitgliedstaats eingereicht wurde. 
+"
+0,Data Act,"10 
+",6,"Die Streitbeilegungsstellen räumen den Parteien die Möglichkeit ein, sich innerhalb 
+einer angemessenen Frist zu den Angelegenheiten zu äußern, in denen sich die 
+Parteien an diese Stellen gewandt haben. In diesem Zusammenhang stellen die 
+Streitbeilegungsstellen diesen Parteien die Schriftsätze der anderen Partei und 
+etwaige Erklärungen von Sachverständigen zur Verfügung. Die 
+Streitbeilegungsstellen geben den Parteien die Möglichkeit, zu diesen Schriftsätzen 
+und Erklärungen Stellung zu nehmen. 
+"
+0,Data Act,"10 
+",7,"Die Streitbeilegungsstellen entscheiden in Angelegenheiten, die ihnen vorgelegt 
+werden, spätestens 90 Tage nach der Beantragung. Diese Entscheidungen werden 
+schriftlich oder auf einem dauerhaften Datenträger niedergelegt und mit einer 
+Begründung versehen. 
+"
+0,Data Act,"10 
+",8,"Die Entscheidung der Streitbeilegungsstelle ist für die Parteien nur dann bindend, 
+wenn die Parteien vor Beginn des Streitbeilegungsverfahrens dem bindenden 
+Charakter ausdrücklich zugestimmt haben. 
+"
+0,Data Act,"10 
+",9,"Dieser Artikel berührt nicht das Recht der Parteien, wirksame Rechtsmittel bei einem 
+Gericht eines Mitgliedstaats einzulegen. 
+"
+0,Data Act,"11 
+",1,"Der Dateninhaber kann geeignete technische Schutzmaßnahmen, einschließlich 
+intelligenter Verträge, anwenden, um einen unbefugten Zugang zu den Daten zu 
+verhindern und die Einhaltung der Artikel 5, 6, 9 und 10 sowie der für die 
+Datenbereitstellung vereinbarten Vertragsbedingungen sicherzustellen. Solche 
+technischen Schutzmaßnahmen dürfen nicht als Mittel eingesetzt werden, um zu 
+verhindern, dass ein Nutzer sein Recht, Dritten nach Artikel 5 wirksam Daten 
+bereitzustellen, ausübt oder dass ein Dritter ein Recht nach den Rechtsvorschriften 
+der Union oder nationalen Rechtsvorschriften zur Umsetzung des Unionsrechts 
+gemäß Artikel 8 Absatz 1 in Anspruch nimmt. 
+"
+0,Data Act,"11 
+",2,"Ein Datenempfänger, der dem Dateninhaber zwecks Erlangung der Daten ungenaue 
+oder falsche Informationen gegeben, Täuschungen und Zwangsmittels eingesetzt 
+oder offensichtliche Lücken in der dem Schutz der Daten dienenden technischen 
+Infrastruktur des Dateninhabers missbraucht, die bereitgestellten Daten für nicht 
+genehmigte Zwecke genutzt oder ohne Zustimmung des Dateninhabers an eine 
+andere Partei weitergegeben hat, muss – sofern der Dateninhaber oder der Nutzer 
+nichts anderes anweist – unverzüglich 
+a) die vom Dateninhaber bereitgestellten Daten und alle etwaigen Kopien davon 
+vernichten; 
+b) das Herstellen, Anbieten, Inverkehrbringen oder Verwenden von Waren, 
+abgeleiteten Daten oder Dienstleistungen, die auf den mit den Daten erlangten 
+Kenntnissen beruhen, oder das Einführen, Ausführen oder Lagern von in 
+diesem Sinne rechtsverletzenden Waren beenden und alle rechtsverletzenden 
+Waren vernichten. DE 56  DE "
+0,Data Act,"11 
+",3,"Absatz 2 Buchstabe b gilt nicht in folgenden Fällen: 
+a) dem Dateninhaber ist durch die Nutzung der Daten kein erheblicher Schaden 
+entstanden; 
+b) dies wäre im Hinblick auf die Interessen des Dateninhabers unverhältnismäßig.
+"
+0,Data Act,"12 
+",1,"Dieses Kapitel gilt, wenn ein Dateninhaber nach Artikel 5 oder nach Unionsrecht 
+oder nationalen Rechtsvorschriften zur Umsetzung des Unionsrechts verpflichtet ist, 
+einem Datenempfänger Daten bereitzustellen. 
+"
+0,Data Act,"12 
+",2,"Eine Vertragsklausel in einer Datenweitergabevereinbarung, die zum Nachteil einer 
+Partei oder gegebenenfalls zum Nachteil des Nutzers die Anwendung dieses Kapitels 
+ausschließt, davon abweicht oder seine Wirkung abändert, ist für diese Partei nicht 
+bindend. 
+"
+0,Data Act,"12 
+",3,"Dieses Kapitel gilt nur in Bezug auf Datenbereitstellungspflichten nach Unionsrecht 
+oder nationalen Rechtsvorschriften zur Umsetzung des Unionsrechts, die nach dem 
+[Datum des Geltungsbeginns der Verordnung] in Kraft treten. 
+KAPITEL IV 
+MISSBRÄUCHLICHE KLAUSELN IN BEZUG AUF DEN 
+DATENZUGANG UND DIE DATENNUTZUNG ZWISCHEN 
+UNTERNEHMEN 
+"
+0,Data Act,"13 
+",1,"Eine Vertragsklausel in Bezug auf den Datenzugang und die Datennutzung oder die 
+Haftung und Rechtsbehelfe bei Verletzung oder Beendigung datenbezogener 
+Pflichten, die ein Unternehmen einem Kleinstunternehmen oder einem kleinen oder 
+mittleren Unternehmen im Sinne des Artikels 2 des Anhangs der 
+Empfehlung 2003/361/EG einseitig auferlegt hat, ist für letzteres Unternehmen nicht 
+bindend, wenn sie missbräuchlich ist. 
+"
+0,Data Act,"13 
+",2,"Eine Vertragsklausel ist missbräuchlich, wenn ihre Verwendung gröblich von der 
+guten Geschäftspraxis beim Datenzugang und der Datennutzung abweicht und gegen 
+das Gebot von Treu und Glauben und des redlichen Geschäftsverkehrs verstößt. 
+"
+0,Data Act,"13 
+",3,"Eine Vertragsklausel ist missbräuchlich im Sinne dieses Artikels, wenn sie Folgendes 
+bezweckt oder bewirkt: 
+a) den Ausschluss oder die Beschränkung der Haftung der Partei, die die Klausel 
+einseitig auferlegt hat, für vorsätzliche oder grob fahrlässige Handlungen; 
+b) den Ausschluss der Rechtsbehelfe, die der Partei, der die Klausel einseitig 
+auferlegt wurde, bei Nichterfüllung von Vertragspflichten zur Verfügung 
+stehen, oder den Ausschluss der Haftung der Partei, die die Klausel einseitig 
+auferlegt hat, bei einer Verletzung solcher Pflichten; DE 57  DE c) das ausschließliche Recht der Partei, die die Klausel einseitig auferlegt hat, zu 
+bestimmen, ob die gelieferten Daten vertragsgemäß sind, oder eine 
+Vertragsklausel auszulegen. 
+"
+0,Data Act,"13 
+",4,"Eine Vertragsklausel gilt als missbräuchlich im Sinne dieses Artikels, wenn sie 
+Folgendes bezweckt oder bewirkt: 
+a) eine unangemessene Beschränkung der Rechtsmittel bei Nichterfüllung von 
+Vertragspflichten oder der Haftung bei einer Verletzung solcher Pflichten; 
+b) ein Recht der Partei, die die Klausel einseitig auferlegt hat, auf Zugang zu 
+Daten der anderen Vertragspartei und deren Nutzung in einer Weise, die den 
+berechtigten Interessen der anderen Vertragspartei erheblich schadet; 
+c) die Hinderung der Partei, der die Klausel einseitig auferlegt wurde, die von ihr 
+während der Vertragslaufzeit bereitgestellten oder erzeugten Daten zu nutzen, 
+oder eine Beschränkung der Nutzung solcher Daten insofern, als diese Partei 
+nicht berechtigt ist, diese Daten in verhältnismäßiger Weise zu nutzen, zu 
+erfassen, darauf zuzugreifen oder sie zu kontrollieren oder zu verwerten; 
+d) die Hinderung der Partei, der die Klausel einseitig auferlegt wurde, eine Kopie 
+der von ihr bereitgestellten oder erzeugten Daten während der Vertragslaufzeit 
+oder innerhalb einer angemessenen Frist nach Kündigung des Vertrags zu 
+erhalten; 
+e) die Möglichkeit, dass die Partei, die die Klausel einseitig auferlegt hat, den 
+Vertrag mit unangemessen kurzer Frist kündigen darf, und zwar unter 
+Berücksichtigung der realistischen Möglichkeiten der anderen Vertragspartei, 
+zu einem alternativen und vergleichbaren Dienst zu wechseln, und des durch 
+die Kündigung verursachten finanziellen Nachteils, außer bei Vorliegen 
+schwerwiegender Gründe. 
+"
+0,Data Act,"13 
+",5,"Eine Vertragsklausel gilt im Sinne dieses Artikels als einseitig auferlegt, wenn sie 
+von einer Vertragspartei eingebracht wird und die andere Vertragspartei ihren Inhalt 
+trotz des Versuchs, hierüber zu verhandeln, nicht beeinflussen kann. Die 
+Vertragspartei, die eine Vertragsklausel eingebracht hat, trägt die Beweislast dafür, 
+dass diese Klausel nicht einseitig auferlegt wurde. 
+"
+0,Data Act,"13 
+",6,"Ist die missbräuchliche Vertragsklausel von den übrigen Bedingungen des Vertrags 
+abtrennbar, so bleiben die übrigen Vertragsbedingungen bindend. 
+"
+0,Data Act,"13 
+",7,"Dieser Artikel gilt weder für Vertragsklauseln, in denen der Hauptgegenstand des 
+Vertrags festgelegt wird, noch für Vertragsklauseln, in denen der zu zahlende Preis 
+festgelegt wird. 
+"
+0,Data Act,"13 
+",8,"Die Parteien eines unter Absatz 1 fallenden Vertrags können die Anwendung dieses 
+Artikels nicht ausschließen, davon abweichen oder dessen Wirkungen abändern. DE 58  DE KAPITEL V
+BEREITSTELLUNG VON DATEN FÜR ÖFFENTLICHE 
+STELLEN UND ORGANE, EINRICHTUNGEN UND 
+SONSTIGE STELLEN DER UNION WEGEN 
+AUẞERGEWÖHNLICHER NOTWENDIGKEIT 
+"
+0,Data Act,"14 
+",1,"Auf Verlangen stellt der Dateninhaber einer öffentlichen Stelle oder einem Organ, 
+einer Einrichtung oder einer sonstigen Stelle der Union, die eine außergewöhnliche 
+Notwendigkeit der Nutzung der verlangten Daten nachweist, Daten bereit. 
+"
+0,Data Act,"14 
+",2,"Dieses Kapitel gilt nicht für kleine Unternehmen und Kleinstunternehmen im Sinne 
+des Artikels 2 des Anhangs der Empfehlung 2003/361/EG der Kommission. 
+"
+0,Data Act,"15 
+",NA,"Außergewöhnliche Notwendigkeit der Datennutzung 
+Eine außergewöhnliche Notwendigkeit der Datennutzung im Sinne dieses Kapitels liegt unter 
+einem der folgenden Umstände vor: 
+a) die verlangten Daten sind zur Bewältigung eines öffentlichen Notstands 
+erforderlich, 
+b) das Datenverlangen ist zeitlich befristet, im Umfang begrenzt und erforderlich, 
+um einen öffentlichen Notstand zu verhindern oder die Erholung von einem 
+öffentlichen Notstand zu unterstützen; 
+c) aufgrund des Fehlens verfügbarer Daten ist die öffentliche Stelle oder das 
+Organ, die Einrichtung oder die sonstige Stelle der Union daran gehindert, eine 
+bestimmte, gesetzlich ausdrücklich vorgesehene Aufgabe im öffentlichen 
+Interesse zu erfüllen, und 
+1. die öffentliche Stelle oder das Organ, die Einrichtung oder die sonstige 
+Stelle der Union kann diese Daten nicht auf andere Weise erlangen, auch 
+nicht durch Datenerwerb auf dem Markt zu Marktpreisen oder aufgrund 
+bestehender Datenbereitstellungspflichten, und durch den Erlass neuer 
+Rechtsvorschriften kann die rechtzeitige Verfügbarkeit der Daten nicht 
+gewährleistet werden, oder 
+2. die Erlangung der Daten nach dem in diesem Kapitel festgelegten 
+Verfahren würde den Verwaltungsaufwand der Dateninhaber oder 
+anderer Unternehmen erheblich verringern. 
+"
+0,Data Act,"16 
+",1,"Dieses Kapitel berührt nicht die im Unionsrecht oder im nationalen Recht 
+festgelegten Pflichten in Bezug auf die Berichterstattung, das Beantworten von 
+Auskunftsersuchen oder den Nachweis und die Überprüfung der Einhaltung 
+rechtlicher Pflichten. DE 59  DE "
+0,Data Act,"16 
+",2,"Öffentliche Stellen sowie Organe, Einrichtungen und sonstige Stelle der Union 
+dürfen die Rechte aus diesem Kapitel nicht ausüben, um Tätigkeiten der Verhütung, 
+Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder Ordnungswidrigkeiten 
+oder der Strafvollstreckung oder der Zoll- oder Steuerverwaltung durchzuführen. 
+Dieses Kapitel berührt nicht das anwendbare Unionsrecht und die anwendbaren 
+nationalen Rechtsvorschriften über die Verhütung, Ermittlung, Aufdeckung oder 
+Verfolgung von Straftaten oder Ordnungswidrigkeiten oder über die Vollstreckung 
+von Strafen oder verwaltungsrechtlichen Sanktionen oder über die Zoll- oder 
+Steuerverwaltung. 
+"
+0,Data Act,"17 
+",1,"Öffentliche Stellen oder Organe, Einrichtungen oder sonstige Stellen der Union 
+müssen in ihren Datenverlangen nach Artikel 14 Absatz 1 
+a) angeben, welche Daten benötigt werden; 
+b) die außergewöhnliche Notwendigkeit nachweisen, für die die Daten verlangt 
+werden; 
+c) den Zweck des Verlangens, die beabsichtigte Nutzung der verlangten Daten 
+und die Dauer dieser Nutzung erläutern; 
+d) die Rechtsgrundlage für das Datenverlangen angeben; 
+e) die Frist angeben, innerhalb deren die Daten bereitzustellen sind oder innerhalb 
+deren der Dateninhaber die öffentliche Stelle oder das Organ, die Einrichtung 
+oder die sonstige Stelle der Union ersuchen kann, das Verlangen zu ändern 
+oder zurückzuziehen. 
+"
+0,Data Act,"17 
+",2,"Ein Datenverlangen nach Absatz 1 muss 
+a) in klarer, prägnanter, einfacher und für den Dateninhaber verständlicher 
+Sprache abgefasst sein; 
+b) im Hinblick auf die Granularität und den Umfang der verlangten Daten sowie 
+die Häufigkeit des Zugangs zu den verlangten Daten in einem angemessenen 
+Verhältnis zu der außergewöhnlichen Notwendigkeit stehen; 
+c) die rechtmäßigen Ziele des Dateninhabers unter Berücksichtigung des Schutzes 
+von Geschäftsgeheimnissen und der Kosten und des nötigen Aufwands der 
+Datenbereitstellung achten; 
+d) soweit wie möglich nur nicht personenbezogene Daten betreffen; 
+e) dem Dateninhaber Aufschluss über die Sanktionen geben, die nach  Artikel 33 
+ von einer nach Artikel 31 zuständigen Behörde verhängt werden, wenn er dem 
+Verlangen nicht nachkommt; 
+f) ohne ungebührliche Verzögerung online veröffentlicht werden. 
+"
+0,Data Act,"17 
+",3,"Öffentliche Stellen oder Organe, Einrichtungen oder sonstige Stellen der Union 
+dürfen nach diesem Kapitel erlangte Daten nicht zur Weiterverwendung im Sinne der 
+Richtlinie (EU) 2019/1024 zur Verfügung stellen. Die Richtlinie (EU) 2019/1024 
+findet keine Anwendung auf nach diesem Kapitel erlangte Daten im Besitz 
+öffentlicher Stellen. DE 60  DE "
+0,Data Act,"17 
+",4,"Absatz 3 hindert eine öffentliche Stelle oder ein Organ, eine Einrichtung oder eine 
+sonstige Stelle der Union nicht daran, nach diesem Kapitel erlangte Daten mit 
+anderen öffentlichen Stellen und mit Organen, Einrichtungen oder sonstigen Stellen 
+der Union zur Wahrnehmung der in Artikel 15 genannten Aufgaben auszutauschen 
+oder die Daten einem Dritten bereitzustellen, den sie im Rahmen einer öffentlich 
+zugänglichen Vereinbarung mit technischen Inspektionen oder anderen Aufgaben 
+betraut hat. Dabei gelten die in Artikel 19 genannten Pflichten der öffentlichen 
+Stellen und der Organe, Einrichtungen und sonstigen Stellen der Union. 
+Wenn eine öffentliche Stelle oder ein Organ, eine Einrichtung oder eine sonstige 
+Stelle der Union Daten nach diesem Absatz übermittelt oder bereitstellt, teilt sie dies 
+dem Dateninhaber, von dem sie die Daten erhalten hat, mit. 
+"
+0,Data Act,"18 
+",1,"Ein Dateninhaber, der ein Datenzugangsverlangen nach diesem Kapitel erhält, stellt 
+der anfragenden öffentlichen Stelle oder dem Organ, der Einrichtung oder der 
+sonstigen Stelle der Union die Daten unverzüglich bereit. 
+"
+0,Data Act,"18 
+",2,"Unbeschadet besonderer Erfordernisse bezüglich der Verfügbarkeit von Daten, die in 
+sektorspezifischen Rechtsvorschriften festgelegt sind, kann der Dateninhaber im 
+Falle von Daten, die zur Bewältigung eines öffentlichen Notstands erforderlich sind, 
+innerhalb von fünf Arbeitstagen und in anderen Fällen einer außergewöhnlichen 
+Notwendigkeit innerhalb von 15 Arbeitstagen nach Eingang das Verlangen aus 
+einem der folgenden Gründe ablehnen oder dessen Änderung beantragen: 
+a) die Daten sind nicht verfügbar; 
+b) das Verlangen erfüllt nicht die Voraussetzungen in Artikel 17 Absätze 1 und 2. 
+"
+0,Data Act,"18 
+",3,"Im Falle eines Verlangens nach Daten, die zur Bewältigung eines öffentlichen 
+Notstands erforderlich sind, kann der Dateninhaber das Verlangen auch dann 
+ablehnen oder dessen Änderung beantragen, wenn er die verlangten Daten bereits auf 
+ein vorheriges Verlangen einer anderen öffentlichen Stelle oder eines Organs, einer 
+Einrichtung oder einer sonstigen Stelle der Union zu demselben Zweck übermittelt 
+hat und ihm nicht gemäß Artikel 19 Absatz 1 Buchstabe c die Vernichtung der Daten 
+mitgeteilt wurde. 
+"
+0,Data Act,"18 
+",4,"Wenn der Dateninhaber das Verlangen gemäß Absatz 3 ablehnt oder dessen 
+Änderung beantragt, nennt er die öffentliche Stelle oder das Organ, die Einrichtung 
+oder die sonstige Stelle der Union, die zuvor zu demselben Zweck Daten verlangt 
+hatte. 
+"
+0,Data Act,"18 
+",5,"Ist zur Erfüllung eines Verlangens, einer öffentlichen Stelle oder einem Organ, einer 
+Einrichtung oder einer sonstigen Stelle der Union Daten bereitzustellen, die 
+Offenlegung personenbezogener Daten erforderlich, so unternimmt der Dateninhaber 
+angemessene Anstrengungen, um die Daten zu pseudonymisieren, sofern das 
+Verlangen mit pseudonymisierten Daten erfüllt werden kann. 
+"
+0,Data Act,"18 
+",6,"Möchte die öffentliche Stelle oder das Organ, die Einrichtung oder die sonstige Stelle 
+der Union der Ablehnung eines Dateninhabers, die verlangten Daten bereitzustellen, 
+oder der von ihm beantragten Änderung des Verlangens widersprechen oder möchte 
+der Dateninhaber Einspruch gegen das Verlangen einlegen, so wird die in  Artikel 31 
+ genannte zuständige Behörde mit der Angelegenheit befasst.DE 61  DE "
+0,Data Act,"19 
+",1,"Eine öffentliche Stelle oder ein Organ, eine Einrichtung oder eine sonstige Stelle der 
+Union, die Daten aufgrund eines Verlangens nach Artikel 14 erhalten hat, 
+a) darf die Daten nicht in einer Weise nutzen, die mit dem Zweck, zu dem sie 
+verlangt wurden, unvereinbar ist; 
+b) trifft – soweit die Verarbeitung personenbezogener Daten erforderlich ist – 
+technische und organisatorische Maßnahmen zum Schutz der Rechte und 
+Freiheiten der betroffenen Personen; 
+c) vernichtet die Daten, sobald sie für den angegebenen Zweck nicht mehr 
+erforderlich sind, und teilt dem Dateninhaber die Vernichtung der Daten mit. 
+"
+0,Data Act,"19 
+",2,"Eine Offenlegung von Geschäftsgeheimnissen oder mutmaßlichen 
+Geschäftsgeheimnissen gegenüber einer öffentlichen Stelle oder einem Organ, einer 
+Einrichtung oder einer sonstigen Stelle der Union ist nur insoweit erforderlich, wie 
+dies für den Zweck des Verlangens unerlässlich ist. In diesem Falle trifft die 
+öffentliche Stelle oder das Organ, die Einrichtung oder die sonstige Stelle der Union 
+geeignete Maßnahmen, um die Vertraulichkeit dieser Geschäftsgeheimnisse zu 
+wahren. 
+"
+0,Data Act,"20 
+",1,"Werden Daten zur Bewältigung eines öffentlichen Notstands nach  Artikel 15 
+ Buchstabe a bereitgestellt, so geschieht dies kostenlos. 
+"
+0,Data Act,"20 
+",2,"Beantragt der Dateninhaber für die Bereitstellung von Daten nach einem Verlangen 
+gemäß Artikel 15 Buchstaben b oder c einen Ausgleich, so darf dieser Ausgleich die 
+technischen und organisatorischen Kosten, die durch die Erfüllung des Verlangens 
+entstehen, erforderlichenfalls einschließlich der Kosten einer Anonymisierung und 
+technischen Anpassung, zuzüglich einer angemessenen Marge, nicht übersteigen. 
+Auf Anfrage der öffentlichen Stelle oder des Organs, der Einrichtung oder der 
+sonstigen Stelle der Union, die bzw. das die Daten verlangt hat, übermittelt der 
+Dateninhaber Informationen über die Grundlage für die Berechnung der Kosten und 
+der angemessenen Marge. 
+"
+0,Data Act,"21 
+",1,"Eine öffentliche Stelle oder ein Organ, eine Einrichtung oder eine sonstige Stelle der 
+Union ist berechtigt, die nach diesem Kapitel erhaltenen Daten an Personen oder 
+Organisationen zur Durchführung wissenschaftlicher Forschungstätigkeiten oder 
+Analysen, die mit dem Zweck, für den die Daten verlangt wurden, vereinbar sind, 
+oder an nationale statistische Ämter und an Eurostat zur Erstellung amtlicher 
+Statistiken weiterzugeben. 
+"
+0,Data Act,"21 
+",2,"Personen oder Organisationen, die Daten nach Absatz 1 erhalten, müssen 
+gemeinnützig oder im Rahmen einer im Unionsrecht oder im Recht der 
+Mitgliedstaaten anerkannten Aufgabe von öffentlichem Interesse handeln. Dies
+umfasst keine Organisationen, die dem bestimmenden Einfluss gewerblicher DE 62  DE Unternehmen unterliegen, wodurch diese Unternehmen einen bevorzugten Zugang 
+zu den Forschungsergebnissen erhalten könnten. 
+"
+0,Data Act,"21 
+",3,"Personen oder Organisationen, die Daten nach Absatz 1 erhalten, müssen die 
+Bestimmungen des Artikels 17 Absatz 3 und des Artikels 19 einhalten. 
+"
+0,Data Act,"21 
+",4,"Wenn eine öffentliche Stelle oder ein Organ, eine Einrichtung oder eine sonstige 
+Stelle der Union Daten nach Absatz 1 übermittelt oder bereitstellt, teilt sie dies dem 
+Dateninhaber, von dem sie die Daten erhalten hat, mit. 
+"
+0,Data Act,"22 
+",1,"Öffentliche Stellen und Organe, Einrichtungen und sonstige Stellen der Union 
+arbeiten zusammen und unterstützen sich gegenseitig bei der einheitlichen 
+Umsetzung dieses Kapitels. 
+"
+0,Data Act,"22 
+",2,"Daten, die im Zusammenhang mit einem Amtshilfeersuchen und geleisteter 
+Amtshilfe nach Absatz 1 ausgetauscht worden sind, dürfen nicht in einer Weise 
+genutzt werden, die mit dem Zweck, zu dem sie verlangt wurden, unvereinbar ist. 
+"
+0,Data Act,"22 
+",3,"Beabsichtigt eine öffentliche Stelle, von einem Dateninhaber, der in einem anderen 
+Mitgliedstaat niedergelassen ist, die Bereitstellung von Daten zu verlangen, so teilt 
+sie diese Absicht zunächst der in Artikel 31 genannten zuständigen Behörde des 
+betreffenden Mitgliedstaats mit. Dies gilt auch für Zugangsverlangen von Organen, 
+Einrichtungen und sonstigen Stellen der Union. 
+"
+0,Data Act,"22 
+",4,"Nach Eingang der Mitteilung nach Absatz 3 berät die betreffende zuständige 
+Behörde die anfragende öffentliche Stelle hinsichtlich einer etwaigen Notwendigkeit 
+der Zusammenarbeit mit öffentlichen Stellen des Mitgliedstaats, in dem der 
+Dateninhaber niedergelassen ist, um den Verwaltungsaufwand des Dateninhabers bei 
+der Erfüllung des Verlangens zu verringern. Die anfragende öffentliche Stelle trägt 
+den Ratschlägen der betreffenden zuständigen Behörde Rechnung. 
+KAPITEL VI 
+WECHSEL ZWISCHEN 
+DATENVERARBEITUNGSDIENSTEN 
+"
+0,Data Act,"23 
+",1,"Anbieter von Datenverarbeitungsdiensten treffen die in den Artikeln 24, 25 und 26 
+vorgesehenen Maßnahmen, damit die Kunden ihres Dienstes zu einem anderen 
+Datenverarbeitungsdienst wechseln können, der dieselbe Dienstart abdeckt und von 
+einem anderen Diensteanbieter erbracht wird. Anbieter von 
+Datenverarbeitungsdiensten beseitigen insbesondere gewerbliche, technische, 
+vertragliche und organisatorische Hindernisse, die Kunden daran hindern, 
+a) den Vertrag über den Dienst nach einer Kündigungsfrist von höchstens 
+30 Kalendertagen zu kündigen; 
+b) neue Verträge mit einem anderen Anbieter von Datenverarbeitungsdiensten für 
+dieselbe Dienstart zu schließen; DE 63  DE c) ihre Daten, Anwendungen und anderen digitalen Vermögenswerte zu einem 
+anderen Anbieter von Datenverarbeitungsdiensten zu übertragen; 
+d) die Funktionsäquivalenz des Dienstes im IT-Umfeld des bzw. der anderen 
+Anbieter von Datenverarbeitungsdiensten, die dieselbe Dienstart abdecken, 
+gemäß Artikel 26 aufrechtzuerhalten. 
+"
+0,Data Act,"23 
+",2,"Absatz 1 gilt nur für Hindernisse im Zusammenhang mit den Dienstleistungen, 
+Verträgen oder Geschäftspraktiken des ursprünglichen Anbieters. 
+"
+0,Data Act,"24 
+",1,"Die Rechte des Kunden und die Pflichten des Anbieters eines 
+Datenverarbeitungsdienstes in Bezug auf den Wechsel zwischen Anbietern solcher 
+Dienste werden in einem schriftlichen Vertrag eindeutig festgelegt. Unbeschadet der 
+Richtlinie (EU) 2019/770 enthält dieser Vertrag mindestens Folgendes: 
+a) Klauseln, die es dem Kunden ermöglichen, auf Verlangen zu einem 
+Datenverarbeitungsdienst zu wechseln, der von einem anderen Anbieter von 
+Datenverarbeitungsdiensten angeboten wird, oder alle direkt oder indirekt vom 
+Kunden erzeugten Daten, Anwendungen und digitalen Vermögenswerte auf ein 
+System in eigenen Räumlichkeiten zu übertragen, und die insbesondere die 
+Festlegung einer verbindlichen Übergangsfrist von höchstens 30 Kalendertagen 
+vorsehen, in der der Datenverarbeitungsdienstleister 
+1. den Wechselvorgang unterstützt und – soweit technisch machbar – 
+abschließt; 
+2. die uneingeschränkte Kontinuität bei der Erbringung der jeweiligen 
+Funktionen oder Dienste sicherstellt; 
+b) eine vollständige Spezifizierung aller Kategorien von Daten und 
+Anwendungen, die während des Wechsels exportierbar sind, einschließlich 
+mindestens aller Daten, die der Kunde zu Beginn der 
+Dienstleistungsvereinbarung importiert hat, und aller Daten und Metadaten, die 
+vom Kunden erstellt und durch die Nutzung des Dienstes während der 
+Diensterbringung erzeugt wurden, einschließlich mindestens der 
+Konfigurationsparameter, Sicherheitseinstellungen, Zugangsrechte und 
+Zugangsprotokolle des Dienstes; 
+c) eine Mindestfrist für den Datenabruf von mindestens 30 Kalendertagen, der 
+nach dem Ablauf des zwischen dem Kunden und dem Diensteanbieter gemäß 
+Absatz 1 Buchstabe a und Absatz 2 vereinbarten Übergangszeitraums beginnt. 
+"
+0,Data Act,"24 
+",2,"Ist der in Absatz 1 Buchstaben a und c vorgesehene verbindliche Übergangszeitraum 
+technisch nicht machbar, so teilt der Anbieter von Datenverarbeitungsdiensten dies 
+dem Kunden innerhalb von sieben Arbeitstagen nach der Veranlassung des 
+Anbieterwechsels mit, wobei er die technische Undurchführbarkeit mit einem 
+ausführlichen Bericht ordnungsgemäß begründet und einen alternativen 
+Übergangszeitraum angibt, der sechs Monate nicht überschreiten darf. Im Einklang 
+mit Absatz 1 wird während des in Artikel 25 Absatz 2 genannten alternativen 
+Übergangszeitraums gegen ermäßigtes Entgelt eine uneingeschränkte 
+Betriebskontinuität sichergestellt. DE 64  DE "
+0,Data Act,"25 
+",1,"Ab dem [Datum X+ 3 Jahre] verlangen die Anbieter von Datenverarbeitungsdiensten 
+von den Kunden für den Wechsel keine Entgelte mehr. 
+"
+0,Data Act,"25 
+",2,"Vom [Datum X, Tag des Inkrafttretens des Datengesetzes] bis zum [Datum X+ 3 
+Jahre] dürfen die Anbieter von Datenverarbeitungsdiensten von den Kunden für den 
+Wechsel ermäßigte Entgelte verlangen. 
+"
+0,Data Act,"25 
+",3,"Die in Absatz 2 genannten Entgelte dürfen die dem Anbieter von 
+Datenverarbeitungsdiensten im unmittelbaren Zusammenhang mit dem betreffenden 
+Wechselvorgang entstehenden Kosten nicht übersteigen. 
+"
+0,Data Act,"25 
+",4,"Der Kommission wird die Befugnis übertragen, gemäß Artikel 38 delegierte 
+Rechtsakte zur Ergänzung dieser Verordnung zu erlassen, um einen 
+Überwachungsmechanismus einzuführen, mit dem die Kommission die von den 
+Anbietern von Datenverarbeitungsdiensten auf dem Markt verlangten 
+Wechselentgelte überwachen kann, um sicherzustellen, dass die in Absatz 1 
+vorgesehene Abschaffung der Wechselentgelte innerhalb der in demselben Absatz 
+festgelegten Frist erreicht wird. 
+"
+0,Data Act,"26 
+",1,"Anbieter von Datenverarbeitungsdiensten, die skalierbare und elastische 
+Rechenressourcen betreffen, die auf Infrastrukturelemente wie Server, Netze und die 
+für den Betrieb der Infrastruktur erforderlichen virtuellen Ressourcen beschränkt 
+sind, die aber keinen Zugang zu den Betriebsdiensten, zur Software und zu den 
+Anwendungen gewähren, die dort gespeichert, anderweitig verarbeitet oder auf 
+diesen Infrastrukturelementen eingesetzt werden, stellen sicher, dass der Kunde nach 
+dem Wechsel zu einem Dienst, der dieselbe Dienstart abdeckt und von einem 
+anderen Anbieter von Datenverarbeitungsdiensten erbracht wird, 
+Funktionsäquivalenz bei der Nutzung des neuen Dienstes genießt. 
+"
+0,Data Act,"26 
+",2,"Bei anderen als den unter Absatz 1 fallenden Datenverarbeitungsdiensten stellen die 
+Anbieter von Datenverarbeitungsdiensten offene Schnittstellen öffentlich und 
+kostenlos bereit. 
+"
+0,Data Act,"26 
+",3,"Bei anderen als den unter Absatz 1 fallenden Datenverarbeitungsdiensten 
+gewährleisten die Anbieter von Datenverarbeitungsdiensten die Kompatibilität mit 
+offenen Interoperabilitätsspezifikationen oder europäischen Interoperabilitätsnormen, 
+die gemäß Artikel 29 Absatz 5 dieser Verordnung benannt werden. 
+"
+0,Data Act,"26 
+",4,"Bestehen für die betreffende Dienstart keine offenen Interoperabilitätsspezifikationen 
+oder europäischen Normen nach Absatz 3, so exportiert der Anbieter von 
+Datenverarbeitungsdiensten auf Verlangen des Kunden alle erzeugten oder 
+gemeinsam erzeugten Daten, einschließlich der relevanten Datenformate und 
+Datenstrukturen, in einem strukturierten, gängigen und maschinenlesbaren Format. DE 65  DE KAPITEL VII
+SCHUTZVORKEHRUNGEN FÜR NICHT 
+PERSONENBEZOGENE DATEN IM INTERNATIONALEN 
+UMFELD 
+"
+0,Data Act,"27 
+",1,"Unbeschadet des Absatzes 2 oder 3 treffen die Anbieter von 
+Datenverarbeitungsdiensten alle angemessenen technischen, rechtlichen und 
+organisatorischen Maßnahmen, einschließlich vertraglicher Vereinbarungen, um eine 
+internationale Übermittlung oder einen internationalen staatlichen Zugriff zu in der 
+Union gespeicherten nicht personenbezogenen Daten zu verhindern, wenn dies im 
+Widerspruch zum Unionsrecht oder zum nationalen Recht des betreffenden 
+Mitgliedstaats stünde. 
+"
+0,Data Act,"27 
+",2,"Jegliches Urteil eines Gerichts eines Drittlands und jegliche Entscheidung einer 
+Verwaltungsbehörde eines Drittlands, mit denen von einem Anbieter von 
+Datenverarbeitungsdiensten die Übermittlung von oder die Zugangsgewährung zu im 
+Rahmen dieser Verordnung in der Union gespeicherten nicht personenbezogenen 
+Daten verlangt wird, dürfen jedenfalls nur dann anerkannt oder vollstreckbar werden, 
+wenn sie auf eine in Kraft befindliche internationale Übereinkunft wie etwa ein 
+Rechtshilfeabkommen zwischen dem ersuchenden Drittland und der Union oder eine 
+solche Übereinkunft zwischen dem ersuchenden Drittland und einem Mitgliedstaat 
+gestützt sind. 
+"
+0,Data Act,"27 
+",3,"Besteht keine solche internationale Übereinkunft und ergeht an einen Anbieter von 
+Datenverarbeitungsdiensten ein Urteil eines Gerichts eines Drittlands oder eine 
+Entscheidung einer Verwaltungsbehörde eines Drittlands, im Rahmen dieser 
+Verordnung in der Union gespeicherte nicht personenbezogene Daten zu übermitteln 
+oder Zugang dazu zu gewähren, und würde die Befolgung eines solchen Urteils oder 
+einer solchen Entscheidung den Adressaten in Widerspruch zum Unionsrecht oder 
+zum nationalen Recht des betreffenden Mitgliedstaats bringen, so erfolgt die 
+Übermittlung dieser Daten an diese Behörde oder die Zugangsgewährung nur dann, 
+a) wenn das Rechtssystem des Drittlands vorschreibt, dass die Entscheidung oder 
+das Urteil zu begründen ist und verhältnismäßig sein muss, und weiter vorsieht, 
+dass die Entscheidung oder das Urteil eine hinreichende Bestimmtheit 
+aufweisen muss, indem z. B. darin eine hinreichende Bezugnahme auf 
+bestimmte verdächtige Personen oder Rechtsverletzungen erfolgt, 
+b) wenn der begründete Einwand des Adressaten von einem zuständigen Gericht 
+in dem Drittland überprüft wird und 
+c) wenn das zuständige Gericht, das die Entscheidung oder das Urteil erlässt oder 
+die Entscheidung einer Verwaltungsbehörde überprüft, nach dem Recht dieses 
+Landes befugt ist, die einschlägigen rechtlichen Interessen des Bereitstellers 
+der durch das Unionsrecht oder das nationale Recht des betreffenden 
+Mitgliedstaats geschützten Daten gebührend zu berücksichtigen. 
+Der Adressat der Entscheidung kann die Stellungnahme der nach dieser Verordnung 
+zuständigen Stellen oder Behörden einholen, um festzustellen, ob diese Bedingungen 
+erfüllt sind, insbesondere wenn er der Auffassung ist, dass die Entscheidung sensible DE 66  DE Geschäftsdaten betreffen oder die nationalen Sicherheits- oder 
+Verteidigungsinteressen der Union oder ihrer Mitgliedstaaten beeinträchtigen könnte. 
+Der durch die Verordnung [xxx – Daten-Governance-Gesetz] eingesetzte 
+Europäische Dateninnovationsrat berät und unterstützt die Kommission bei der 
+Ausarbeitung von Leitlinien für die Bewertung, ob diese Bedingungen erfüllt sind. 
+"
+0,Data Act,"27 
+",4,"Falls die Voraussetzungen des Absatzes 2 oder 3 erfüllt sind, stellt der Anbieter von 
+Datenverarbeitungsdiensten aufgrund einer angemessenen Auslegung des 
+Verlangens die zulässige Mindestmenge der darin verlangten Daten bereit. 
+"
+0,Data Act,"27 
+",5,"Der Anbieter von Datenverarbeitungsdiensten teilt dem Dateninhaber mit, dass ein 
+Verlangen einer Verwaltungsbehörde eines Drittlands nach Zugang zu seinen Daten 
+vorliegt, bevor er dem Verlangen nachkommt, außer wenn das Verlangen 
+Strafverfolgungszwecken dient und solange dies zur Wahrung der Wirksamkeit der 
+Strafverfolgungsmaßnahmen erforderlich ist. 
+KAPITEL VIII 
+INTEROPERABILITÄT 
+"
+0,Data Act,"28 
+",1,"Betreiber von Datenräumen müssen die folgenden wesentlichen Anforderungen zur 
+Erleichterung der Interoperabilität der Daten und der Mechanismen und Dienste für 
+die gemeinsame Datennutzung erfüllen: 
+a) die Datensatzinhalte, Nutzungsbeschränkungen, Lizenzen, 
+Datenerhebungsmethoden, Datenqualität und Unsicherheiten sind hinreichend 
+beschrieben, um dem Empfänger das Auffinden der Daten, den Datenzugang 
+und die Datennutzung zu ermöglichen; 
+b) die Datenstrukturen, Datenformate, Vokabulare, Klassifizierungssysteme, 
+Taxonomien und Codelisten werden in einer öffentlich zugänglichen und 
+einheitlichen Weise beschrieben; 
+c) die technischen Mittel für den Datenzugang, wie z. B. 
+Anwendungsprogrammierschnittstellen, sowie ihre Nutzungsbedingungen und 
+die Dienstqualität sind ausreichend beschrieben, um den automatischen 
+Datenzugang und die automatische Datenübermittlung zwischen den Parteien, 
+auch kontinuierlich oder in Echtzeit in einem maschinenlesbaren Format, zu 
+ermöglichen; 
+d) es werden die Mittel bereitgestellt, mit denen die Interoperabilität intelligenter 
+Verträge innerhalb ihrer Dienste und Tätigkeiten ermöglicht wird. 
+Diese Anforderungen können allgemeiner Art sein oder ganz bestimmte Sektoren 
+betreffen, müssen aber das Zusammenspiel mit Anforderungen anderer 
+sektorspezifischer Rechtsvorschriften der Union oder der Mitgliedstaaten in vollem 
+Umfang berücksichtigen. 
+"
+0,Data Act,"28 
+",2,"Der Kommission wird die Befugnis übertragen, gemäß Artikel 38 delegierte 
+Rechtsakte zur Ergänzung dieser Verordnung durch eine nähere Bestimmung der in 
+Absatz 1 genannten wesentlichen Anforderungen zu erlassen. DE 67  DE "
+0,Data Act,"28 
+",3,"Bei Betreibern von Datenräumen, die den harmonisierten Normen oder Teilen davon 
+entsprechen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht 
+wurden, wird eine Konformität mit den in Absatz 1 genannten wesentlichen 
+Anforderungen vermutet, soweit sich diese Normen auf diese Anforderungen 
+erstrecken. 
+"
+0,Data Act,"28 
+",4,"Die Kommission kann gemäß Artikel 10 der Verordnung (EU) Nr. 1025/2012 eine 
+oder mehrere europäische Normungsorganisationen damit beauftragen, Entwürfe für 
+harmonisierte Normen auszuarbeiten, die den in Absatz 1 genannten wesentlichen 
+Anforderungen genügen. 
+"
+0,Data Act,"28 
+",5,"Die Kommission erlässt in Bezug auf eine oder alle der in Absatz 1 festgelegten 
+Anforderungen nötigenfalls im Wege von Durchführungsrechtsakten gemeinsame 
+Spezifikationen, wenn es keine harmonisierten Normen nach Absatz 4 gibt oder 
+wenn sie der Auffassung ist, dass die einschlägigen harmonisierten Normen nicht 
+ausreichen, um die Erfüllung der wesentlichen Anforderungen in Absatz 1 zu 
+gewährleisten. Diese Durchführungsrechtsakte werden gemäß dem Prüfverfahren 
+nach Artikel 39 Absatz 2 erlassen. 
+"
+0,Data Act,"28 
+",6,"Die Kommission kann Leitlinien mit Interoperabilitätsspezifikationen für die 
+Funktionsweise gemeinsamer europäischer Datenräume annehmen, beispielsweise 
+Architekturmodelle und technische Normen für die Umsetzung von 
+Rechtsvorschriften und Vereinbarungen zwischen den Parteien, die eine gemeinsame 
+Datennutzung fördern, z. B. im Hinblick auf Zugangsrechte und die technische 
+Übertragung von Einwilligungen oder Genehmigungen. 
+"
+0,Data Act,"29 
+",1,"Offene Interoperabilitätsspezifikationen und europäische Normen für die 
+Interoperabilität von Datenverarbeitungsdiensten müssen 
+a) leistungsbezogen darauf ausgerichtet sein, die Interoperabilität zwischen 
+verschiedenen Datenverarbeitungsdiensten, die dieselbe Dienstart abdecken, 
+herzustellen; 
+b) die Übertragbarkeit digitaler Vermögenswerte zwischen verschiedenen 
+Datenverarbeitungsdiensten, die dieselbe Dienstart abdecken, verbessern; 
+c) soweit dies technisch machbar ist, die Funktionsäquivalenz zwischen 
+verschiedenen Datenverarbeitungsdiensten, die dieselbe Dienstart abdecken, 
+gewährleisten. 
+"
+0,Data Act,"29 
+",2,"Offene Interoperabilitätsspezifikationen und europäische Normen für die 
+Interoperabilität von Datenverarbeitungsdiensten müssen Folgendes regeln: 
+a) die Aspekte der Cloud-Interoperabilität in Bezug auf die 
+Transportinteroperabilität, die syntaktische Interoperabilität, die semantische 
+Dateninteroperabilität, die verhaltensbezogene Interoperabilität und die 
+Interoperabilität der Regeln und Vorgaben; 
+b) die Aspekte der Cloud-Datenübertragbarkeit in Bezug auf die syntaktische 
+Datenübertragbarkeit, die semantische Datenübertragbarkeit und die 
+Übertragbarkeit der Datenregeln; DE 68  DE c) die Aspekte der Cloud-Anwendungen in Bezug auf die syntaktische 
+Übertragbarkeit von Anwendungen, die Übertragbarkeit von 
+Anwendungsbefehlen, die Übertragbarkeit von Anwendungsmetadaten, die 
+Übertragbarkeit des Anwendungsverhaltens und die Übertragbarkeit der 
+Anwendungsregeln. 
+"
+0,Data Act,"29 
+",3,"Offene Interoperabilitätsspezifikationen müssen mit Anhang II Nummern 3 und 4 der 
+Verordnung (EU) Nr. 1025/2012 übereinstimmen. 
+"
+0,Data Act,"29 
+",4,"Die Kommission kann gemäß Artikel 10 der Verordnung (EU) Nr. 1025/2012 eine 
+oder mehrere europäische Normungsorganisationen damit beauftragen, Entwürfe für 
+europäische Normen für bestimmte Dienstarten von Datenverarbeitungsdiensten 
+auszuarbeiten. 
+"
+0,Data Act,"29 
+",5,"Für die Zwecke des Artikels 26 Absatz 3 dieser Verordnung wird der Kommission 
+die Befugnis übertragen, gemäß Artikel 38 delegierte Rechtsakte zu erlassen, um die 
+Fundstellen offener Interoperabilitätsspezifikationen und europäischer Normen für 
+die Interoperabilität von Datenverarbeitungsdiensten im Zentralspeicher der Union 
+für Normen für die Interoperabilität von Datenverarbeitungsdiensten zu 
+veröffentlichen, sofern diese den Kriterien der Absätze 1 und 2 des vorliegenden 
+Artikels genügen. 
+"
+0,Data Act,"30 
+",1,"Der Anbieter einer Anwendung, in der intelligente Verträge verwendet werden, oder 
+– in Ermangelung dessen – die Person, deren gewerbliche, geschäftliche oder 
+berufliche Tätigkeit den Einsatz intelligenter Verträge für Dritte im Zusammenhang 
+mit einer Datenbereitstellungsvereinbarung beinhaltet, muss die folgenden 
+wesentlichen Anforderungen erfüllen: 
+a) Robustheit: Gewährleistung, dass der intelligente Vertrag so konzipiert wurde, 
+dass er ein sehr hohes Maß an Robustheit bietet, um Funktionsfehler zu 
+vermeiden und Manipulationen durch Dritte standzuhalten; 
+b) sichere Beendigung und Unterbrechung: Gewährleistung, dass es einen 
+Mechanismus gibt, mit dem die weitere Ausführung von Transaktionen 
+beendet werden kann: der intelligente Vertrag enthält interne Funktionen, mit 
+denen der Vertrag zurückgesetzt oder angewiesen werden kann, den Betrieb zu 
+beenden oder zu unterbrechen, um eine künftige (unbeabsichtigte) Ausführung 
+zu vermeiden; 
+c) Datenarchivierung und Datenkontinuität: für den Fall, dass ein intelligenter 
+Vertrag beendet oder deaktiviert werden muss, ist die Möglichkeit der 
+Archivierung der Transaktionsdaten, der Logik und des Programmcodes des 
+intelligenten Vertrags zur Aufzeichnung der in der Vergangenheit mit den 
+Daten durchgeführten Vorgänge (Prüfbarkeit) vorzusehen; und 
+d) Zugriffskontrolle: ein intelligenter Vertrag muss durch strenge 
+Zugriffskontrollmechanismen auf der Governance-Ebene und der Ebene des 
+intelligenten Vertrags geschützt sein. 
+"
+0,Data Act,"30 
+",2,"Der Anbieter eines intelligenten Vertrags oder – in Ermangelung dessen – die 
+Person, deren gewerbliche, geschäftliche oder berufliche Tätigkeit den Einsatz 
+intelligenter Verträge für Dritte im Zusammenhang mit einerDE 69  DE Datenbereitstellungsvereinbarung beinhaltet, führt im Hinblick auf die Erfüllung der 
+wesentlichen Anforderungen nach Absatz 1 eine Konformitätsbewertung durch und 
+stellt bei Erfüllung der Anforderungen eine EU-Konformitätserklärung aus. 
+"
+0,Data Act,"30 
+",3,"Mit der Ausstellung der EU-Konformitätserklärung übernimmt der Anbieter einer 
+Anwendung, in der intelligente Verträge verwendet werden, oder – in Ermangelung 
+dessen – die Person, deren gewerbliche, geschäftliche oder berufliche Tätigkeit den 
+Einsatz intelligenter Verträge für Dritte im Zusammenhang mit einer 
+Datenbereitstellungsvereinbarung beinhaltet, die Verantwortung dafür, dass die 
+Anforderungen nach Absatz 1 erfüllt sind. 
+"
+0,Data Act,"30 
+",4,"Bei einem intelligenten Vertrag, der den harmonisierten Normen oder Teilen davon 
+entspricht, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht 
+wurden, wird eine Konformität mit den in Absatz 1 genannten wesentlichen 
+Anforderungen vermutet, soweit sich diese Normen auf diese Anforderungen 
+erstrecken. 
+"
+0,Data Act,"30 
+",5,"Die Kommission kann gemäß Artikel 10 der Verordnung (EU) Nr. 1025/2012 eine 
+oder mehrere europäische Normungsorganisationen damit beauftragen, Entwürfe für 
+harmonisierte Normen auszuarbeiten, die den in Absatz 1 genannten wesentlichen 
+Anforderungen genügen. 
+"
+0,Data Act,"30 
+",6,"Wenn es keine harmonisierten Normen nach Absatz 4 gibt oder die Kommission der 
+Auffassung ist, dass die einschlägigen harmonisierten Normen nicht ausreichen, um 
+die Erfüllung der wesentlichen Anforderungen in Absatz 1 in einem 
+grenzüberschreitenden Zusammenhang zu gewährleisten, kann die Kommission im 
+Wege von Durchführungsrechtsakten gemeinsame Spezifikationen für die in 
+Absatz 1 genannten wesentlichen Anforderungen erlassen. Diese 
+Durchführungsrechtsakte werden gemäß dem Prüfverfahren nach Artikel 39 Absatz 2 
+erlassen. 
+KAPITEL IX 
+ANWENDUNG UND DURCHSETZUNG 
+"
+0,Data Act,"31 
+",1,"Jeder Mitgliedstaat benennt eine oder mehrere zuständige Behörden, die für die 
+Anwendung und Durchsetzung dieser Verordnung verantwortlich sind. Die 
+Mitgliedstaaten können eine oder mehrere neue Behörden einrichten oder sich auf 
+bestehende Behörden stützen. 
+"
+0,Data Act,"31 
+",2,"Unbeschadet des Absatzes 1 gilt Folgendes: 
+a) die für die Überwachung der Anwendung der Verordnung (EU) 2016/679 
+zuständige unabhängige Aufsichtsbehörde ist bezüglich des Schutzes 
+personenbezogener Daten auch für die Überwachung der Anwendung der 
+vorliegenden Verordnung zuständig. Die Kapitel VI und VII der Verordnung 
+(EU) 2016/679 finden sinngemäß Anwendung. Die Aufgaben und Befugnisse 
+der Aufsichtsbehörden werden in Bezug auf die Verarbeitung 
+personenbezogener Daten wahrgenommen; 
+b) bei besonderen sektoralen Problemen des Datenaustauschs im Zusammenhang 
+mit der Anwendung dieser Verordnung bleibt die Zuständigkeit der 
+Fachbehörden gewahrt; DE 70  DE c) die für die Anwendung und Durchsetzung des Kapitels VI dieser Verordnung 
+zuständige nationale Behörde muss über Erfahrungen auf dem Gebiet der 
+Daten und der elektronischen Kommunikationsdienste verfügen. 
+"
+0,Data Act,"31 
+",3,"Die Mitgliedstaaten sorgen dafür, dass die jeweiligen Aufgaben und Befugnisse der 
+nach Absatz 1 benannten zuständigen Behörden eindeutig festgelegt werden und 
+Folgendes umfassen: 
+a) Sensibilisierung von Nutzern und Rechtsträgern, die in den 
+Anwendungsbereich dieser Verordnung fallen, für die Rechte und Pflichten aus 
+dieser Verordnung; 
+b) Bearbeitung von Beschwerden über mutmaßliche Verstöße gegen diese 
+Verordnung, angemessene Untersuchung des Beschwerdegegenstands und 
+Unterrichtung des Beschwerdeführers innerhalb einer angemessenen Frist über 
+den Fortgang und das Ergebnis der Untersuchung, insbesondere, wenn eine 
+weitere Untersuchung oder eine Koordinierung mit einer anderen zuständigen 
+Behörde notwendig ist; 
+c) Durchführung von Untersuchungen über Fragen der Anwendung dieser 
+Verordnung, auch auf der Grundlage von Informationen einer anderen 
+zuständigen Behörde oder einer sonstigen Behörde; 
+d) Verhängung abschreckender finanzieller Sanktionen, die auch Zwangsgelder 
+und Geldstrafen mit Rückwirkung umfassen können, im Verwaltungsverfahren 
+oder Einleitung von Gerichtsverfahren zur Verhängung von Geldbußen; 
+e) Beobachtung technischer Entwicklungen, die für die Bereitstellung und 
+Nutzung von Daten von Bedeutung sind; 
+f) Zusammenarbeit mit den zuständigen Behörden anderer Mitgliedstaaten, um 
+die einheitliche Anwendung dieser Verordnung zu gewährleisten, 
+einschließlich des unverzüglichen Austauschs aller relevanten Informationen 
+auf elektronischem Wege; 
+g) Gewährleistung der Online-Veröffentlichung der von öffentlichen Stellen bei 
+Notständen nach Kapitel V gestellten Datenzugangsverlangen; 
+h) Zusammenarbeit mit allen einschlägigen zuständigen Behörden zur 
+Gewährleistung der Durchsetzung der Pflichten des Kapitels VI im Einklang 
+mit anderen Rechtsvorschriften der Union und mit der Selbstregulierung, die 
+für Anbieter von Datenverarbeitungsdiensten gelten; 
+i) Gewährleistung der Abschaffung von Entgelten für den Wechsel zwischen 
+Anbietern von Datenverarbeitungsdiensten gemäß Artikel 25. 
+"
+0,Data Act,"31 
+",4,"Benennt ein Mitgliedstaat mehr als eine zuständige Behörde, so arbeiten die 
+zuständigen Behörden bei der Wahrnehmung der ihnen nach Absatz 3 übertragenen 
+Aufgaben und Befugnisse untereinander sowie gegebenenfalls auch mit der für die 
+Überwachung der Anwendung der Verordnung (EU) 2016/679 zuständigen 
+Aufsichtsbehörde zusammen, um die einheitliche Anwendung der vorliegenden 
+Verordnung zu gewährleisten. In solchen Fällen benennen die betreffenden 
+Mitgliedstaaten eine koordinierende zuständige Behörde. 
+"
+0,Data Act,"31 
+",5,"Die Mitgliedstaaten teilen der Kommission die Namen der benannten zuständigen 
+Behörden und ihre jeweiligen Aufgaben und Befugnisse sowie gegebenenfalls den DE 71  DE Namen der koordinierenden zuständigen Behörde mit. Die Kommission führt ein 
+öffentliches Register dieser Behörden. 
+"
+0,Data Act,"31 
+",6,"Bei der Wahrnehmung ihrer Aufgaben und Befugnisse gemäß dieser Verordnung 
+unterliegen die zuständigen Behörden keiner direkten oder indirekten Einflussnahme 
+von außen und dürfen von anderen Behörden oder von privaten Stellen keine 
+Weisungen einholen oder entgegennehmen. 
+"
+0,Data Act,"31 
+",7,"Die Mitgliedstaaten sorgen dafür, dass die benannten zuständigen Behörden mit den 
+erforderlichen Mitteln ausgestattet werden, damit sie ihre Aufgaben gemäß dieser 
+Verordnung angemessen wahrnehmen können. 
+"
+0,Data Act,"32 
+",1,"Unbeschadet eines anderen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs 
+haben natürliche und juristische Personen das Recht, einzeln oder gegebenenfalls 
+gemeinsam bei der jeweils zuständigen Behörde des Mitgliedstaats ihres 
+gewöhnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder ihrer Niederlassung 
+Beschwerde einzulegen, wenn sie der Ansicht sind, dass ihre Rechte nach dieser 
+Verordnung verletzt wurden. 
+"
+0,Data Act,"32 
+",2,"Die zuständige Behörde, bei der die Beschwerde eingelegt wurde, unterrichtet den 
+Beschwerdeführer über den Stand des Verfahrens und die getroffene Entscheidung. 
+"
+0,Data Act,"32 
+",3,"Die zuständigen Behörden arbeiten zusammen, um Beschwerden zu bearbeiten und 
+zu lösen, und tauschen dazu unter anderem unverzüglich alle relevanten 
+Informationen auf elektronischem Wege aus. Diese Zusammenarbeit berührt nicht 
+das besondere Verfahren der Zusammenarbeit gemäß den Kapiteln VI und VII der 
+Verordnung (EU) 2016/679. 
+"
+0,Data Act,"33 
+",1,"Die Mitgliedstaaten erlassen Vorschriften über Sanktionen, die bei Verstößen gegen 
+diese Verordnung zu verhängen sind, und treffen alle für die Anwendung der 
+Sanktionen erforderlichen Maßnahmen. Die vorgesehenen Sanktionen müssen 
+wirksam, verhältnismäßig und abschreckend sein. 
+"
+0,Data Act,"33 
+",2,"Die Mitgliedstaaten teilen der Kommission diese Vorschriften und Maßnahmen bis 
+zum [Datum des Geltungsbeginns der Verordnung] mit und melden ihr unverzüglich 
+etwaige spätere Änderungen. 
+"
+0,Data Act,"33 
+",3,"Bei Verstößen gegen die Pflichten der Kapitel II, III und V dieser Verordnung 
+können die in Artikel 51 der Verordnung (EU) 2016/679 genannten 
+Aufsichtsbehörden innerhalb ihres Zuständigkeitsbereichs Geldbußen im Einklang 
+mit Artikel 83 der Verordnung (EU) 2016/679 bis zu dem in Artikel 83 Absatz 5 der 
+Verordnung genannten Betrag verhängen. 
+"
+0,Data Act,"33 
+",4,"Bei Verstößen gegen die Pflichten des Kapitels V dieser Verordnung kann die in 
+Artikel 52 der Verordnung (EU) 2018/1725 genannte Aufsichtsbehörde innerhalb 
+ihres Zuständigkeitsbereichs Geldbußen im Einklang mit Artikel 66 der Verordnung 
+(EU) 2018/1725 bis zu dem in Artikel 66 Absatz 3 der Verordnung genannten Betrag 
+verhängen.DE 72  DE "
+0,Data Act,"34 
+",NA,"Mustervertragsbedingungen 
+Die Kommission erstellt und empfiehlt unverbindliche Mustervertragsbedingungen für den 
+Datenzugang und die Datennutzung, um die Parteien bei der Ausarbeitung und Aushandlung 
+von Verträgen mit ausgewogenen vertraglichen Rechten und Pflichten zu unterstützen. 
+KAPITEL X 
+SUI-GENERIS-RECHT IM RAHMEN DER 
+RICHTLINIE 1996/9/EG 
+"
+0,Data Act,"35 
+",NA,"Datenbanken, die bestimmte Daten enthalten 
+Damit die Ausübung des Rechts der Nutzer auf Zugang zu solchen Daten und deren Nutzung
+nach Artikel 4 dieser Verordnung oder des Rechts auf Weitergabe solcher Daten an Dritte 
+nach Artikel 5 dieser Verordnung nicht behindert wird, findet das in Artikel 7 der 
+Richtlinie 96/9/EG festgelegte spezifische Schutzrecht sui generis keine Anwendung auf 
+Datenbanken, die Daten enthalten, die bei der Nutzung eines Produkts oder verbundenen 
+Dienstes erlangt oder erzeugt wurden. 
+KAPITEL XI 
+SCHLUSSBESTIMMUNGEN 
+"
+0,Data Act,"36 
+",NA,"Änderung der Verordnung (EU) 2017/2394 
+Im Anhang der Verordnung (EU) 2017/2394 wird folgende Nummer angefügt: 
+„29. [Verordnung (EU) XXX des Europäischen Parlaments und des Rates [Datengesetz]].“ 
+"
+0,Data Act,"37 
+",NA,"Änderung der Richtlinie (EU) 2020/1828 
+Im Anhang der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates wird 
+folgende Nummer angefügt: 
+„67. [Verordnung (EU) XXX des Europäischen Parlaments und des Rates [Datengesetz]].“ 
+"
+0,Data Act,"38 
+",1,"Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in 
+diesem Artikel festgelegten Bedingungen übertragen. 
+"
+0,Data Act,"38 
+",2,"Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 25 Absatz 4, 
+Artikel 28 Absatz 2 und Artikel 29 Absatz 5 wird der Kommission auf unbestimmte 
+Zeit ab dem […] übertragen. 
+"
+0,Data Act,"38 
+",3,"Die Befugnisübertragung gemäß Artikel 25 Absatz 4, Artikel 28 Absatz 2 und 
+Artikel 29 Absatz 5 kann vom Europäischen Parlament oder vom Rat jederzeit 
+widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in 
+diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner 
+Veröffentlichung im Amtsblatt der Europäischen Union oder zu einem im Beschluss DE 73  DE über den Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von 
+delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den 
+Widerruf nicht berührt. 
+"
+0,Data Act,"38 
+",4,"Vor dem Erlass eines delegierten Rechtsakts konsultiert die Kommission die von den 
+einzelnen Mitgliedstaaten benannten Sachverständigen im Einklang mit den in der 
+Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung 
+enthaltenen Grundsätzen. 
+"
+0,Data Act,"38 
+",5,"Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn 
+gleichzeitig dem Europäischen Parlament und dem Rat. 
+"
+0,Data Act,"38 
+",6,"Ein delegierter Rechtsakt, der gemäß Artikel 25 Absatz 4, Artikel 28 Absatz 2 und 
+Artikel 29 Absatz 5 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische 
+Parlament noch der Rat innerhalb einer Frist von drei Monaten nach Übermittlung 
+dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben 
+haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat 
+beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. 
+Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um drei 
+Monate verlängert. 
+"
+0,Data Act,"39 
+",1,"Die Kommission wird von einem Ausschuss unterstützt. Dieser Ausschuss ist ein 
+Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011. 
+"
+0,Data Act,"39 
+",2,"Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) 
+Nr. 182/2011. 
+"
+0,Data Act,"40 
+",1,"Die besonderen Pflichten zur Bereitstellung von Daten zwischen Unternehmen, 
+zwischen Unternehmen und Verbrauchern sowie ausnahmsweise zwischen 
+Unternehmen und öffentlichen Stellen aus Rechtsvorschriften der Union, die bis zum 
+[xx XXX xxx] in Kraft getreten sind, und aus darauf beruhenden delegierten 
+Rechtsakten oder Durchführungsrechtsakten bleiben unberührt.  
+"
+0,Data Act,"40 
+",2,"Diese Verordnung berührt nicht die Rechtsvorschriften der Union, in denen 
+hinsichtlich der Bedürfnisse eines Sektors, eines gemeinsamen europäischen 
+Datenraums oder eines Gebietes von öffentlichem Interesse weitere Anforderungen 
+festgelegt werden, insbesondere in Bezug auf 
+a) technische Aspekte des Datenzugangs, 
+b) Beschränkungen der Rechte des Dateninhabers auf Zugang zu bestimmten von 
+Nutzern bereitgestellten Daten und auf deren Nutzung, 
+c) Aspekte, die über den Datenzugang und die Datennutzung hinausgehen. DE 74  DE "
+0,Data Act,"41 
+",NA,"Bewertung und Überprüfung 
+Bis zum [zwei Jahre nach dem Geltungsbeginn dieser Verordnung] führt die Kommission 
+eine Bewertung dieser Verordnung durch und übermittelt dem Europäischen Parlament und 
+dem Rat sowie dem Europäischen Wirtschafts- und Sozialausschuss einen Bericht über deren 
+wichtigste Ergebnisse. Darin wird insbesondere Folgendes bewertet: 
+a) andere Kategorien oder Arten von Daten, die zugänglich gemacht werden sollten, 
+b) der Ausschluss bestimmter Kategorien von Unternehmen als Begünstigte nach 
+Artikel 5, 
+c) sonstige Situationen, die für die Zwecke des Artikels 15 eine außergewöhnliche 
+Notwendigkeit begründen; 
+d) Änderungen in der Vertragspraxis der Anbieter von Datenverarbeitungsdiensten und 
+die Frage, ob dies zu einer hinreichenden Einhaltung des Artikels 24 führt, 
+e) die Senkung der Entgelte, die Anbieter von Datenverarbeitungsdiensten für den 
+Wechsel im Einklang mit der schrittweisen Abschaffung der Wechselentgelte nach 
+Artikel 25 verlangen. 
+"
+0,Data Act,"42 
+",NA,"Inkrafttreten und Geltungsbeginn 
+Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der 
+Europäischen Union in Kraft. 
+Sie gilt ab dem [12 Monate nach dem Datum des Inkrafttretens dieser Verordnung]. 
+ 
+Geschehen zu Brüssel am […] 
+Im Namen des Europäischen Parlaments Im Namen des Rates 
+Der Präsident /// Die Präsidentin Der Präsident /// Die Präsidentin "
