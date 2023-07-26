@@ -43,4 +43,4 @@ We grouped the normative documents into "Daten und KI" and "Timber" to analising
 - ```parameter_choosing_eu3.ipynb``` : Parameter settings - EU Daten und KI
 - ```parameter_choosing_eu_klimatimber.ipynb``` : Normative documents for timber / forest , climate and land in EU
 
-
+The visualizations were saved in the respective folders ("AT_DATEN_KI", etc.) and we manually look into each visualization to see which one fits the research's purposes. These folders are marked with an "OK" after it, and each of them contain the file with the visualization with the best parameters and another folder called "old", with the other excluded set of parameters.
