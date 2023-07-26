@@ -34,9 +34,6 @@ We grouped the normative documents into "Daten und KI" and "Timber" to analising
 - ```parameter_choosing_at_daten_ki.ipynb``` : Normative documents for Data and AI in Austria
 - ```parameter_choosing_at_regierung.ipynb``` :  Austrian government program
 - ```parameter_choosing_at_timber.ipynb``` : Normative documents for timber / forest , climate and land in Austria
-
-  <br><br>
-  All the visualizations were saved in the respective folders (AT_DATEN_KI) and so on. Then we manually analyzed these files and selected the best visualization (therefore the OK after the folder name, showing that we inspect it). 
 - ```parameter_choosing_de_daten_ki.ipynb``` : Normative documents for Data and AI in Germany
 - ```parameter_choosing_de_regierung.ipynb``` :  German government program
 - ```parameter_choosing_de_timber_kl.ipynb```: Normative documents for timber / forest , climate and land in Germany
@@ -44,3 +41,6 @@ We grouped the normative documents into "Daten und KI" and "Timber" to analising
 - ```parameter_choosing_eu_klimatimber.ipynb``` : Normative documents for timber / forest , climate and land in EU
 
 The visualizations were saved in the respective folders ("AT_DATEN_KI", etc.) and we manually look into each visualization to see which one fits the research's purposes. These folders are marked with an "OK" after it, and each of them contain the file with the visualization with the best parameters and another folder called "old", with the other excluded set of parameters.
+## Folder: 03_topics_beschreibung <br>
+```topic_selecting.ipynb```: Now that we selected the models, we gathered all the models in a xlsx file, which we will use to describe the topics based in the best fit (already plotted in the other document). Each one of the .xlsx files are the topics and some examples of documents that were classified into each document
+ 
